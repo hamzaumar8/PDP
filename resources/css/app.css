@@ -24,6 +24,10 @@
     .container {
         @apply mx-auto max-w-7xl z-10 px-5 relative overflow-hidden;
     }
+
+    .top-bar a {
+        @apply !text-[#919bad];
+    }
 }
 
 .body * {
@@ -55,7 +59,4 @@
 }
 .copyright-wrapper a {
     color: #50bd77;
-}
-a {
-    color: #545454;
 }
