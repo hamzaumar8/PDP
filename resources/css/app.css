@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .active-header-link {
+        @apply !font-bold !text-[#2B4E14] after:absolute after:bottom-2 after:left-1/2 after:rounded-full after:w-[5px] after:h-[5px] after:bg-[#3E7A11] pointer-events-none after:transition after:duration-500 after:ease-in-out;
+    }
+    .header-link {
+        @apply capitalize text-[16px] leading-[24px] hover:text-[#3E7A11] relative py-5 text-[#7F8282] transition duration-500 ease-in-out font-[500];
+    }
+
+    .copyright-wrapper {
+        @apply bg-[#202020] text-[#838383];
+    }
+
+    .copyright-wrapper a {
+        @apply text-[#50bd77];
+    }
+    .copyright-wrapper a:hover {
+        @apply text-[#fff];
+    }
+
+    .container {
+        @apply mx-auto max-w-7xl z-10 px-5 relative overflow-hidden;
+    }
+}
+
+.body * {
+    border-color: #e6e6e6;
+}
+.copyright-container {
+    padding-bottom: 33px;
+    padding-top: 33px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.clearfix {
+    zoom: 1;
+}
+
+.gdlr-core-social-network-item .gdlr-core-social-network-icon:first-child {
+    margin-left: 0;
+}
+
+.gdlr-core-social-network-item .gdlr-core-social-network-icon {
+    font-size: 19px;
+}
+.gdlr-core-social-network-item .gdlr-core-social-network-icon {
+    margin-left: 20px;
+    font-size: 19px;
+    display: inline-block;
+    text-align: center;
+}
+.copyright-wrapper a {
+    color: #50bd77;
+}
+a {
+    color: #545454;
+}
