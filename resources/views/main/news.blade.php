@@ -11,7 +11,7 @@
                     <div class="gdlr-core-block-item-title-divider" style="font-size: 24px ;border-bottom-width: 2px ;">
                     </div>
                 </div><a class="gdlr-core-block-item-read-more" href="/kingster/blog-full-right-sidebar-with-frame/"
-                    target="_self" style="color: #3db166 ;">Read All News</a>
+                    target="_self" style="color: #ff6c00 ;">Read All News</a>
             </div>
             <div class="gdlr-core-blog-item-holder gdlr-core-js-2 clearfix" data-layout="fitrows">
                 <div class="gdlr-core-item-list  gdlr-core-item-pdlr gdlr-core-column-20 gdlr-core-column-first">

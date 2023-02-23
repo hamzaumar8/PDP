@@ -17,7 +17,7 @@
                             </p>
                             <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-left-align">
                                 <div class="gdlr-core-divider-line gdlr-core-skin-divider"
-                                    style="border-color: #3db166 ;border-width: 2px;"></div>
+                                    style="border-color: #ff6c00 ;border-width: 2px;"></div>
                             </div>
                         </div>
                     </div>
@@ -126,23 +126,25 @@
     </div>
     <div class="copyright-wrapper">
         <div class="copyright-container container clearfix">
-            <div class="px-5">&copy
-                <script>
-                    document.write(new Date().getFullYear());
-                </script> All Right Reserved , ALHamza
-            </div>
-            <div class="px-5">
-                <div class="gdlr-core-social-network-item gdlr-core-none-align" style="padding-bottom: 0px ;"><a
-                        href="#" target="_blank" class="gdlr-core-social-network-icon" title="facebook"><i
-                            class="fa fa-facebook"></i></a><a href="#" target="_blank"
-                        class="gdlr-core-social-network-icon" title="google-plus"><i
-                            class="fa fa-google-plus"></i></a><a href="#" target="_blank"
-                        class="gdlr-core-social-network-icon" title="linkedin"><i class="fa fa-linkedin"></i></a><a
-                        href="#" target="_blank" class="gdlr-core-social-network-icon" title="skype"><i
-                            class="fa fa-skype"></i></a><a href="#" target="_blank"
-                        class="gdlr-core-social-network-icon" title="twitter"><i class="fa fa-twitter"></i></a><a
-                        href="#" target="_blank" class="gdlr-core-social-network-icon" title="instagram"><i
-                            class="fa fa-instagram"></i></a></div>
+            <div class="flex justify-between items-ecnter ">
+
+                <div class="px-5">&copy
+                    <script>
+                        document.write(new Date().getFullYear());
+                    </script> All Right Reserved.
+                </div>
+                <div class="px-5">
+                    <div class="gdlr-core-social-network-item gdlr-core-none-align"><a href="#" target="_blank"
+                            class="gdlr-core-social-network-icon" title="facebook"><i class="fa fa-facebook"></i></a><a
+                            href="#" target="_blank" class="gdlr-core-social-network-icon" title="google-plus"><i
+                                class="fa fa-google-plus"></i></a><a href="#" target="_blank"
+                            class="gdlr-core-social-network-icon" title="linkedin"><i class="fa fa-linkedin"></i></a><a
+                            href="#" target="_blank" class="gdlr-core-social-network-icon" title="skype"><i
+                                class="fa fa-skype"></i></a><a href="#" target="_blank"
+                            class="gdlr-core-social-network-icon" title="twitter"><i class="fa fa-twitter"></i></a><a
+                            href="#" target="_blank" class="gdlr-core-social-network-icon"
+                            title="instagram"><i class="fa fa-instagram"></i></a></div>
+                </div>
             </div>
         </div>
     </div>

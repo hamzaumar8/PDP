@@ -1,21 +1,22 @@
-<header class="header-wrap header-style-plain style-menu-right sticky-navigation style-fixed clearfix"
+<header class="header-wrap header-style-plain style-menu-right sticky-navigation style-fixed clearfix sticky"
     data-navigation-offset="75px" style="">
     <div class="header-container  container">
-        <div class="header-container-inner clearfix">
-            <div class="logo item-pdlr">
+        <div class="header-container-inner flex justify-between items-center">
+            <div class="logo">
                 <div class="logo-inner">
                     <a class="" href="{{ route('home') }}">
                         <img src="#" alt="PDP LOGO">
                     </a>
                 </div>
             </div>
-            <div class="navigation item-pdlr clearfix ">
+            <div class="navigation ">
                 <div class="main-menu sf-js-enabled sf-arrows" id="main-menu" style="touch-action: pan-y;">
-                    <ul id="menu-main-navigation-1" class="sf-menu">
-                        <li
+                    <ul id="menu-main-navigation-1" class="sf-menu flex space-x-4">
+                        <li x-data="{ aboutOpen: false, timeout: null }" x-on:mouseenter="aboutOpen = true; clearTimeout(timeout)"
+                            x-on:mouseleave="timeout = setTimeout(() => { aboutOpen = false }, 300)"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-5271 normal-menu">
-                            <a href="{{ route('home') }}" class="sf-with-ul-pre sf-with-ul">Home</a>
-                            <ul class="sub-menu" style="display: none;">
+                            <a href="{{ route('home') }}" class="sf-with-ul-pre sf-with-ul">About PDP</a>
+                            <ul class="sub-menu" x-show="aboutOpen">
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-6000"
                                     data-size="60"><a href="{{ route('home') }}">Homepage 1</a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5957 current_page_item menu-item-5999"
@@ -796,11 +797,6 @@
                             <a href="{{ route('home') }}university-life/">University Life</a>
                         </li>
                     </ul>
-                    <div class="navigation-slide-bar" id="navigation-slide-bar"
-                        style="width: 51.9844px; left: 505.188px; display: block; overflow: hidden;"></div>
-                </div>
-                <div class="main-menu-right-wrap clearfix ">
-                    <div class="main-menu-search" id="top-search"><i class="icon_search"></i></div>
                 </div>
             </div><!-- navigation -->
 

@@ -1,16 +1,18 @@
-<div class="top-bar bg-[#192f59] text-[#96a2b8] py-4 relative">
+<div class="top-bar bg-[#6C0078] text-[#e2e5eb] py-4 relative text-[15px]">
     <div class="container ">
         <div class="flex items-center justify-between">
-            <div class="top-bar-left px-5"><i class="fa fa-envelope-open-o"
-                    style="font-size: 15px ;color: #96a2b8 ;margin-right: 8px ;"></i> abednegobansah@gmail.com <i
-                    class="fa fa-phone"
-                    style="font-size: 15px ;color: #96a2b8 ;margin-left: 18px ;margin-right: 6px ;"></i> +233 505 401 959
+            <div class="top-bar-left space-x-5 px-5">
+                <a href="#">
+                    <i class="fa fa-envelope-open-o"></i> abednegobansah@gmail.com
+                </a>
+                <a href="#">
+                    <i class="fa fa-phone"></i> +233 505 401 959
+                </a>
             </div>
             <div class="space-x-5 px-5">
                 <a href="#">Alumni</a>
-                <a href="#">E-learning</a>
+                <a href="https://elearning.pdp.edu.gh">E-learning</a>
                 <a href="#">Portal</a>
-                <a href="#" target="_blank">Support PDP</a>
             </div>
         </div>
     </div>

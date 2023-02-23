@@ -15,7 +15,7 @@
     }
 
     .copyright-wrapper a {
-        @apply text-[#50bd77];
+        @apply text-[#ff6c00];
     }
     .copyright-wrapper a:hover {
         @apply text-[#fff];
@@ -26,7 +26,23 @@
     }
 
     .top-bar a {
-        @apply !text-[#919bad];
+        @apply !text-[#e2e5eb];
+    }
+
+    .hero-slide-wrapper,
+    .nav-hero-icons,
+    .heroSwiper,
+    .hero-slide-wrapper {
+        @apply h-[390px] lg:h-[665px] md:h-[450px];
+    }
+
+    .nav-hero-icons {
+        @apply absolute z-[999] flex justify-center items-center;
+    }
+
+    .hero-swiper-button-next,
+    .hero-swiper-button-prev {
+        @apply w-[50px] h-[50px] leading-[50px] text-[40px] flex  items-center justify-center text-[#e6e6e6];
     }
 }
 
@@ -58,5 +74,5 @@
     text-align: center;
 }
 .copyright-wrapper a {
-    color: #50bd77;
+    color: #ff6c00;
 }
