@@ -36432,7 +36432,7 @@ html .woocommerce span.onsale {
 
 .mm-panel.mm-hasnavbar .mm-navbar {
     display: block;
-    margin: 0 25px 30px;
+    margin: 0 10px 30px;
     position: relative
 }
 
@@ -36660,7 +36660,7 @@ html.mm-pagedim-black #mm-blocker {
 }
 
 ul.mm-listview li {
-    margin: 0 25px;
+    margin: 0 10px;
     border-bottom-width: 1px;
     border-bottom-style: solid
 }

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}" x-data="{ open: false }" class="no-js mmenu-right"
+    :class="{ 'mm-opened mm-blocking mm-background mm-right mm-pagedim-black mm-opening': open }">
 
 <head>
     <meta charset="utf-8">
@@ -32,13 +33,14 @@
 
 <body class="font-sans antialiased">
     <div class="min-h-screen bg-gray-100 dark:bg-gray-900">
+        @include('main.mm-header')
         @include('main.topbar')
         @include('main.header')
         <!-- Page Content -->
-        <main>
+        <main class="body-outer-wrapper mm-page mm-slideout">
             {{ $slot }}
+            @include('main.footer')
         </main>
-        @include('main.footer')
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>

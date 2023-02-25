@@ -11,7 +11,7 @@
             </div>
             <div class="navigation ">
                 <div class="main-menu sf-js-enabled sf-arrows" id="main-menu" style="touch-action: pan-y;">
-                    <ul id="menu-main-navigation-1" class="sf-menu flex space-x-4" x-data="{ aboutOpen: false, academicsOpen: false }">
+                    <ul id="menu-main-navigation-1" class="sf-menu flex space-x-4" x-data="{ aboutOpen: false, academicsOpen: false, admissionsOpen: false }">
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-5271 normal-menu current-menu-ancestor">
                             <a href="{{ route('home') }}" class="sf-with-ul-pre sf-with-ul">Home</a>
@@ -135,29 +135,25 @@
                                 </div>
                             </div>
                         </li>
-                        <li
+                        <li x-on:mouseenter="admissionsOpen = true" x-on:mouseleave="admissionsOpen = false"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5728 normal-menu">
-                            <a href="{{ route('home') }}apply-to-kingster/"
-                                class="sf-with-ul-pre sf-with-ul">Admissions</a>
-                            <ul class="sub-menu" style="display: none;">
+                            <a href="{{ route('apply') }}" class="sf-with-ul-pre sf-with-ul">Admissions</a>
+                            <ul class="sub-menu" x-show="admissionsOpen">
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5729"
-                                    data-size="60"><a href="{{ route('home') }}apply-to-kingster/">Apply To
-                                        Kingster</a></li>
+                                    data-size="60"><a href="{{ route('home') }}">Apply To
+                                        PDP</a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5918"
-                                    data-size="60"><a href="{{ route('home') }}campus-tour/">Campus
+                                    data-size="60"><a href="{{ route('home') }}">Campus
                                         Tour</a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5730"
-                                    data-size="60"><a href="{{ route('home') }}scholarships/">Scholarships</a></li>
+                                    data-size="60"><a href="{{ route('home') }}">Scholarships</a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5731"
-                                    data-size="60"><a href="{{ route('home') }}athletics/">Athletics</a></li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5732"
-                                    data-size="60"><a href="{{ route('home') }}give-to-kingster/">Give To
-                                        Kingster</a></li>
+                                    data-size="60"><a href="{{ route('home') }}">Athletics</a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5917"
-                                    data-size="60"><a href="{{ route('home') }}alumni/">Alumni</a>
+                                    data-size="60"><a href="{{ route('home') }}">Alumni</a>
                                 </li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6049"
-                                    data-size="60"><a href="{{ route('home') }}event-calendar/">Event Calendar</a>
+                                    data-size="60"><a href="{{ route('home') }}">Event Calendar</a>
                                 </li>
                             </ul>
                         </li>

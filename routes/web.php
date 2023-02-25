@@ -29,6 +29,10 @@ Route::get('/majors', function () {
     return view('majors');
 })->name('majors');
 
+Route::get('/apply', function () {
+    return view('apply');
+})->name('apply');
+
 
 Route::get('/dashboard', function () {
     return view('dashboard');
