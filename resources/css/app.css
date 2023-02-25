@@ -22,7 +22,7 @@
     }
 
     .container {
-        @apply mx-auto max-w-7xl z-10 px-5 relative overflow-hidden;
+        @apply mx-auto max-w-7xl z-10 px-5 relative;
     }
 
     .top-bar a {
@@ -43,6 +43,13 @@
     .hero-swiper-button-next,
     .hero-swiper-button-prev {
         @apply w-[50px] h-[50px] leading-[50px] text-[40px] flex  items-center justify-center text-[#e6e6e6];
+    }
+
+    .navigation .sf-menu > li {
+        @apply px-5;
+    }
+    .navigation .sf-menu > li > a {
+        @apply py-5;
     }
 }
 
