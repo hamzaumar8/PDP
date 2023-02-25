@@ -15201,7 +15201,7 @@ ul.slides .clearfix {
     bottom: 0;
     left: 0;
     overflow: hidden;
-    z-index: -2;
+    z-index: 0;
     transition: border-color 300ms,border-width 100ms;
     -moz-transition: border-color 300ms,border-width 100ms;
     -o-transition: border-color 300ms,border-width 100ms;
@@ -15499,7 +15499,7 @@ ul.slides .clearfix {
     margin-right: 10px
 }
 
-.gdlr-core-body .gdlr-core-button.gdlr-core-button-transparent,.gdlr-core-body .gdlr-core-button.gdlr-core-button-transparent:hover {
+.gdlr-core-button.gdlr-core-button-transparent,.gdlr-core-button.gdlr-core-button-transparent:hover {
     background: transparent
 }
 
@@ -15511,12 +15511,12 @@ ul.slides .clearfix {
     background: transparent
 }
 
-.gdlr-core-body .gdlr-core-button.gdlr-core-button-bottom-border-on-text {
+.gdlr-core-button.gdlr-core-button-bottom-border-on-text {
     position: relative;
     background: transparent
 }
 
-.gdlr-core-body .gdlr-core-button.gdlr-core-button-bottom-border-on-text:hover {
+.gdlr-core-button.gdlr-core-button-bottom-border-on-text:hover {
     background: transparent
 }
 
@@ -36828,7 +36828,7 @@ html.mm-opening.mmenu-right .mobile-header-wrap .top-bar,html.mm-opening.mmenu-r
 
 .sf-menu>.mega-menu .sf-mega {
     position: absolute;
-    display: none;
+    display: block;
     z-index: 99
 }
 
@@ -39396,39 +39396,39 @@ blockquote,q,pre {
     color: #2d2d2d
 }
 
-.gdlr-core-body .gdlr-core-load-more,.gdlr-core-body .gdlr-core-button,.body .button,.body input[type="button"],.body input[type="submit"] {
+.gdlr-core-body .gdlr-core-load-more,.gdlr-core-button,.body .button,.body input[type="button"],.body input[type="submit"] {
     color: #fff
 }
 
-.gdlr-core-body .gdlr-core-load-more:hover,.gdlr-core-body .gdlr-core-button:hover {
+.gdlr-core-body .gdlr-core-load-more:hover,.gdlr-core-button:hover {
     color: #fff
 }
 
-.gdlr-core-body .gdlr-core-load-more,.gdlr-core-body .gdlr-core-button,.body .button,.body input[type="button"],.body input[type="submit"] {
+.gdlr-core-body .gdlr-core-load-more,.gdlr-core-button,.body .button,.body input[type="button"],.body input[type="submit"] {
     background-color: #ff6c00
 }
 
-.gdlr-core-body .gdlr-core-load-more:hover,.gdlr-core-body .gdlr-core-button:hover {
+.gdlr-core-body .gdlr-core-load-more:hover,.gdlr-core-button:hover {
     background-color: #2F2F2F
 }
 
-.gdlr-core-body .gdlr-core-button-with-border {
+.gdlr-core-button-with-border {
     border-color: #383838
 }
 
-.gdlr-core-body .gdlr-core-button-with-border.gdlr-core-button-transparent {
+.gdlr-core-button-with-border.gdlr-core-button-transparent {
     color: #383838
 }
 
-.gdlr-core-body .gdlr-core-button-with-border:hover {
+.gdlr-core-button-with-border:hover {
     border-color: #000
 }
 
-.gdlr-core-body .gdlr-core-button-with-border.gdlr-core-button-transparent:hover {
+.gdlr-core-button-with-border.gdlr-core-button-transparent:hover {
     color: #000
 }
 
-.gdlr-core-body .gdlr-core-button.gdlr-core-button-gradient {
+.gdlr-core-button.gdlr-core-button-gradient {
     background-color: #ff6c00;
     background: -webkit-linear-gradient(#57ba73,#ff6c00);
     background: -o-linear-gradient(#57ba73,#ff6c00);
@@ -39436,7 +39436,7 @@ blockquote,q,pre {
     background: linear-gradient(#57ba73,#ff6c00)
 }
 
-.gdlr-core-body .gdlr-core-button.gdlr-core-button-gradient-v {
+.gdlr-core-button.gdlr-core-button-gradient-v {
     background-color: #ff6c00;
     background: -webkit-linear-gradient(to right,#57ba73,#ff6c00);
     background: -o-linear-gradient(to right,#57ba73,#ff6c00);

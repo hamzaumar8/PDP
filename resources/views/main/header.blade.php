@@ -11,35 +11,35 @@
             </div>
             <div class="navigation ">
                 <div class="main-menu sf-js-enabled sf-arrows" id="main-menu" style="touch-action: pan-y;">
-                    <ul id="menu-main-navigation-1" class="sf-menu flex space-x-4">
+                    <ul id="menu-main-navigation-1" class="sf-menu flex space-x-4" x-data="{ aboutOpen: false, academicsOpen: false }">
                         <li
-                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-5271 normal-menu">
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-5271 normal-menu current-menu-ancestor">
                             <a href="{{ route('home') }}" class="sf-with-ul-pre sf-with-ul">Home</a>
                         </li>
-                        <li x-data="{ aboutOpen: false, timeout: null }" x-on:mouseenter="aboutOpen = true; clearTimeout(timeout)"
-                            x-on:mouseleave="timeout = setTimeout(() => { aboutOpen = false }, 300)"
-                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-5271 normal-menu">
+                        <li x-on:mouseenter="aboutOpen = true" x-on:mouseleave="aboutOpen = false"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-5271 normal-menu">
                             <a href="{{ route('home') }}" class="sf-with-ul-pre sf-with-ul">About PDP</a>
-                            <ul class="sub-menu" x-show="aboutOpen">
+                            <ul class="sub-menu" x-show="aboutOpen" x-on:mouseleave="aboutOpen = false">
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-6000"
-                                    data-size="60"><a href="{{ route('home') }}">Message from the President</a></li>
+                                    data-size="60"><a href="{{ route('about-us') }}">Message from the President</a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5957 current_page_item menu-item-5999"
-                                    data-size="60"><a href="{{ route('home') }}homepage-2/">History</a></li>
+                                    data-size="60"><a href="{{ route('about-us') }}">History</a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5957 current_page_item menu-item-5999"
-                                    data-size="60"><a href="{{ route('home') }}homepage-2/">Mission</a></li>
+                                    data-size="60"><a href="{{ route('about-us') }}">Mission</a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5957 current_page_item menu-item-5999"
-                                    data-size="60"><a href="{{ route('home') }}homepage-2/">Vision</a></li>
+                                    data-size="60"><a href="{{ route('about-us') }}">Vision</a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5957 current_page_item menu-item-5999"
-                                    data-size="60"><a href="{{ route('home') }}homepage-2/">Strategic plan</a></li>
+                                    data-size="60"><a href="{{ route('about-us') }}">Strategic plan</a></li>
                             </ul>
                         </li>
-                        <li
+                        <li x-on:mouseenter="academicsOpen = true" x-on:mouseleave="academicsOpen = false"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5735 mega-menu">
                             <a href="{{ route('home') }}bachelor-of-science-in-business-administration/"
                                 class="sf-with-ul-pre sf-with-ul">Academics</a>
-                            <div class="sf-mega sf-mega-full"
+                            <div x-show="academicsOpen"
+                                x-on:mouseleave="academicsOpen = false"class="sf-mega sf-mega-full"
                                 style="background-image: url(&quot;https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/mega-menu-bg.jpg&quot;); background-position: right bottom; background-repeat: no-repeat;">
-                                <div class="sf-mega-section-wrap">
+                                <div class="sf-mega-section-wrap gap-2 grid grid-cols-3">
                                     <div class="sf-mega-section column-15">
                                         <div
                                             class="sf-mega-section-inner menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5739">
@@ -136,18 +136,6 @@
                                                         Course</a>
                                                 </li>
                                             </ul>
-                                        </div>
-                                    </div>
-                                    <div class="sf-mega-section column-15">
-                                        <div
-                                            class="sf-mega-section-inner menu-item menu-item-type-custom menu-item-object-custom menu-item-5746">
-                                            <div class="mega-menu-section-content"><img
-                                                    src="https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/mega-menu-logo.png"
-                                                    style="margin-bottom: 13px;" alt="">
-                                                <span style="font-size: 14px; font-weight: 500;">Academic offerings
-                                                    include 95 majors, 86 minors, and more than 100 in-major
-                                                    specializations</span>
-                                            </div>
                                         </div>
                                     </div>
                                 </div>

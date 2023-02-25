@@ -127,7 +127,6 @@
     <div class="copyright-wrapper">
         <div class="copyright-container container clearfix">
             <div class="flex justify-between items-ecnter ">
-
                 <div class="px-5">&copy
                     <script>
                         document.write(new Date().getFullYear());

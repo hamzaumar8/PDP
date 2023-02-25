@@ -150,7 +150,10 @@
                                     </div><span
                                         class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption"
                                         style="font-size: 19px ;font-weight: 500 ;font-style: normal ;color: #ff6c00 ;">Fall
-                                        2019 applications are now open</span>
+                                        <script>
+                                            document.write(new Date().getFullYear());
+                                        </script> applications are now open
+                                    </span>
                                 </div>
                             </div>
                             <div class="gdlr-core-pbf-element">
@@ -180,4 +183,5 @@
         </div>
     </div>
     @include('main.news')
+    @include('main.partners')
 </x-main-layout>
