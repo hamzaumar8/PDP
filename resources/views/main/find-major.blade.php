@@ -8,11 +8,10 @@
                      programs
                  </h2>
 
-                 <div class="core-button-item core-item-pdlr core-item-pdb core-left-align text-center">
-                     <a class="core-button  core-button-solid core-left-align core-button-no-border"
-                         href="{{ route('majors') }}"
+                 <div class="button-item item-px item-pb left-align text-center">
+                     <a class="button  button-solid left-align button-no-border" href="{{ route('majors') }}"
                          style="font-size: 15px ;color: #ffffff ;padding: 12px 29px 17px 31px;text-transform: none ;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;"><span
-                             class="core-content">Find your major</span></a>
+                             class="content">Find your major</span></a>
                  </div>
              </div>
          </div>

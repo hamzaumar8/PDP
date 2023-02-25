@@ -1,94 +1,94 @@
 <section class="relative py-20 bg-white">
     <div class="container">
-        <div class="core-pbf-element">
-            <div class="core-blog-item core-item-pdb clearfix  core-style-blog-column" style="padding-bottom: 0px ;">
-                <div class="core-block-item-title-wrap  core-left-align core-item-mglr" style="margin-bottom: 40px ;">
-                    <div class="core-block-item-title-inner clearfix">
-                        <h3 class="core-block-item-title"
+        <div class="pbf-element">
+            <div class="blog-item item-pb clearfix  style-blog-column" style="padding-bottom: 0px ;">
+                <div class="block-item-title-wrap  left-align item-mglr" style="margin-bottom: 40px ;">
+                    <div class="block-item-title-inner clearfix">
+                        <h3 class="block-item-title"
                             style="font-size: 24px ;font-style: normal ;text-transform: none ;letter-spacing: 0px ;color: #163269 ;">
                             News &amp; Updates</h3>
-                        <div class="core-block-item-title-divider" style="font-size: 24px ;border-bottom-width: 2px ;">
+                        <div class="block-item-title-divider" style="font-size: 24px ;border-bottom-width: 2px ;">
                         </div>
-                    </div><a class="core-block-item-read-more" href="#" target="_self"
-                        style="color: #ff6c00 ;">Read All News</a>
+                    </div><a class="block-item-read-more" href="#" target="_self" style="color: #ff6c00 ;">Read
+                        All News</a>
                 </div>
-                <div class="core-blog-item-holder -2 clearfix" data-layout="fitrows">
-                    <div class="core-item-list  core-item-pdlr core-column-20 core-column-first">
-                        <div class="core-blog-grid ">
-                            <div class="core-blog-thumbnail core-media-image  core-opacity-on-hover core-zoom-on-hover">
-                                <a href="#"><img
-                                        src="https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2016/06/shutterstock_135948689-900x500.jpg"
+                <div class="blog-item-holder -2 clearfix" data-layout="fitrows">
+                    <div class="item-list  item-px column-20 column-first">
+                        <div class="blog-grid ">
+                            <div class="blog-thumbnail media-image  opacity-on-hover zoom-on-hover">
+                                <a href="#">
+                                    <img src="https://images.pexels.com/photos/8617983/pexels-photo-8617983.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                                         width="900" height="500"
-                                        srcset="https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2016/06/shutterstock_135948689-400x222.jpg 400w, https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2016/06/shutterstock_135948689-600x333.jpg 600w, https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2016/06/shutterstock_135948689-900x500.jpg 900w"
+                                        srcset="https://images.pexels.com/photos/8617983/pexels-photo-8617983.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 600w, https://images.pexels.com/photos/8617983/pexels-photo-8617983.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 900w"
                                         sizes="(max-width: 767px) 100vw, (max-width: 1150px) 33vw, 383px"
                                         alt=""></a>
                             </div>
-                            <div class="core-blog-grid-content-wrap">
-                                <div class="core-blog-info-wrapper core-skin-divider"><span
-                                        class="core-blog-info core-blog-info-font core-skin-caption core-blog-info-date"><a
+                            <div class="blog-grid-content-wrap">
+                                <div class="blog-info-wrapper skin-divider"><span
+                                        class="blog-info blog-info-font skin-caption blog-info-date"><a
                                             href="#">June 6,
                                             2016</a></span><span
-                                        class="core-blog-info core-blog-info-font core-skin-caption core-blog-info-category"><a
+                                        class="blog-info blog-info-font skin-caption blog-info-category"><a
                                             href="#" rel="tag">Blog</a></span></div>
-                                <h3 class="core-blog-title core-skin-title"
+                                <h3 class="blog-title skin-title"
                                     style="font-size: 17px ;font-weight: 600 ;letter-spacing: 0px ;"><a
                                         href="#">Professor
                                         Albert joint research on mobile money in Tanzania</a></h3>
-                                <div class="core-blog-content clearfix"><a
-                                        class="core-excerpt-read-more core-button core-rectangle" href="#">Read
+                                <div class="blog-content clearfix"><a class="excerpt-read-more button rectangle"
+                                        href="#">Read
                                         More</a></div>
                             </div>
                         </div>
                     </div>
-                    <div class="core-item-list  core-item-pdlr core-column-20">
-                        <div class="core-blog-grid ">
-                            <div class="core-blog-thumbnail core-media-image  core-opacity-on-hover core-zoom-on-hover">
+                    <div class="item-list  item-px column-20">
+                        <div class="blog-grid ">
+                            <div class="blog-thumbnail media-image  opacity-on-hover zoom-on-hover">
                                 <a href="#"><img
-                                        src="https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/shutterstock_218235004-900x500.jpg"
+                                        src="https://images.pexels.com/photos/9159039/pexels-photo-9159039.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                                         width="900" height="500"
-                                        srcset="https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/shutterstock_218235004-400x222.jpg 400w, https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/shutterstock_218235004-600x333.jpg 600w, https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/shutterstock_218235004-900x500.jpg 900w"
+                                        srcset="https://images.pexels.com/photos/9159039/pexels-photo-9159039.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 400w, https://images.pexels.com/photos/9159039/pexels-photo-9159039.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 600w, https://images.pexels.com/photos/9159039/pexels-photo-9159039.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 900w"
                                         sizes="(max-width: 767px) 100vw, (max-width: 1150px) 33vw, 383px"
                                         alt=""></a>
                             </div>
-                            <div class="core-blog-grid-content-wrap">
-                                <div class="core-blog-info-wrapper core-skin-divider"><span
-                                        class="core-blog-info core-blog-info-font core-skin-caption core-blog-info-date"><a
+                            <div class="blog-grid-content-wrap">
+                                <div class="blog-info-wrapper skin-divider"><span
+                                        class="blog-info blog-info-font skin-caption blog-info-date"><a
                                             href="#">June 6,
                                             2016</a></span><span
-                                        class="core-blog-info core-blog-info-font core-skin-caption core-blog-info-category"><a
+                                        class="blog-info blog-info-font skin-caption blog-info-category"><a
                                             href="#" rel="tag">Masonry</a></span></div>
-                                <h3 class="core-blog-title core-skin-title"
+                                <h3 class="blog-title skin-title"
                                     style="font-size: 17px ;font-weight: 600 ;letter-spacing: 0px ;"><a href="#">A
                                         Global MBA for the next generation of business leaders</a></h3>
-                                <div class="core-blog-content clearfix"><a
-                                        class="core-excerpt-read-more core-button core-rectangle" href="#">Read
+                                <div class="blog-content clearfix"><a class="excerpt-read-more button rectangle"
+                                        href="#">Read
                                         More</a></div>
                             </div>
                         </div>
                     </div>
-                    <div class="core-item-list  core-item-pdlr core-column-20">
-                        <div class="core-blog-grid ">
-                            <div class="core-blog-thumbnail core-media-image  core-opacity-on-hover core-zoom-on-hover">
+                    <div class="item-list  item-px column-20">
+                        <div class="blog-grid ">
+                            <div class="blog-thumbnail media-image  opacity-on-hover zoom-on-hover">
                                 <a href="#"><img
-                                        src="https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2016/06/shutterstock_481869205-900x500.jpg"
+                                        src="https://images.pexels.com/photos/7092371/pexels-photo-7092371.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                                         width="900" height="500"
-                                        srcset="https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2016/06/shutterstock_481869205-400x222.jpg 400w, https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2016/06/shutterstock_481869205-600x333.jpg 600w, https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2016/06/shutterstock_481869205-900x500.jpg 900w"
+                                        srcset="https://images.pexels.com/photos/7092371/pexels-photo-7092371.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 400w, https://images.pexels.com/photos/7092371/pexels-photo-7092371.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 600w, https://images.pexels.com/photos/7092371/pexels-photo-7092371.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 900w"
                                         sizes="(max-width: 767px) 100vw, (max-width: 1150px) 33vw, 383px"
                                         alt=""></a>
                             </div>
-                            <div class="core-blog-grid-content-wrap">
-                                <div class="core-blog-info-wrapper core-skin-divider"><span
-                                        class="core-blog-info core-blog-info-font core-skin-caption core-blog-info-date"><a
+                            <div class="blog-grid-content-wrap">
+                                <div class="blog-info-wrapper skin-divider"><span
+                                        class="blog-info blog-info-font skin-caption blog-info-date"><a
                                             href="#">June 6,
                                             2016</a></span><span
-                                        class="core-blog-info core-blog-info-font core-skin-caption core-blog-info-category"><a
+                                        class="blog-info blog-info-font skin-caption blog-info-category"><a
                                             href="#" rel="tag">Blog</a></span></div>
-                                <h3 class="core-blog-title core-skin-title"
+                                <h3 class="blog-title skin-title"
                                     style="font-size: 17px ;font-weight: 600 ;letter-spacing: 0px ;"><a
                                         href="#">Professor
                                         Tom comments on voluntary recalls by snack brands</a></h3>
-                                <div class="core-blog-content clearfix"><a
-                                        class="core-excerpt-read-more core-button core-rectangle" href="#">Read
+                                <div class="blog-content clearfix"><a class="excerpt-read-more button rectangle"
+                                        href="#">Read
                                         More</a></div>
                             </div>
                         </div>

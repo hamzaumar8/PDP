@@ -49,7 +49,7 @@
         @apply px-5;
     }
     .navigation .sf-menu > li > a {
-        @apply py-5;
+        @apply py-6;
     }
 }
 
@@ -67,14 +67,14 @@
     zoom: 1;
 }
 
-.core-social-network-item .core-social-network-icon:first-child {
+.social-network-item .social-network-icon:first-child {
     margin-left: 0;
 }
 
-.core-social-network-item .core-social-network-icon {
+.social-network-item .social-network-icon {
     font-size: 19px;
 }
-.core-social-network-item .core-social-network-icon {
+.social-network-item .social-network-icon {
     margin-left: 20px;
     font-size: 19px;
     display: inline-block;

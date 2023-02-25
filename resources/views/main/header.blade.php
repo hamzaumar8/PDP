@@ -34,13 +34,11 @@
                         </li>
                         <li x-on:mouseenter="academicsOpen = true" x-on:mouseleave="academicsOpen = false"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5735 mega-menu">
-                            <a href="{{ route('home') }}bachelor-of-science-in-business-administration/"
-                                class="sf-with-ul-pre sf-with-ul">Academics</a>
+                            <a href="#" class="sf-with-ul-pre sf-with-ul">Academics</a>
                             <div x-show="academicsOpen"
-                                x-on:mouseleave="academicsOpen = false"class="sf-mega sf-mega-full"
-                                style="background-image: url(&quot;https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/mega-menu-bg.jpg&quot;); background-position: right bottom; background-repeat: no-repeat;">
+                                x-on:mouseleave="academicsOpen = false"class="sf-mega sf-mega-full">
                                 <div class="sf-mega-section-wrap gap-2 grid grid-cols-3">
-                                    <div class="sf-mega-section column-15">
+                                    <div class="sf-mega-section">
                                         <div
                                             class="sf-mega-section-inner menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5739">
                                             <a class="sf-with-ul-pre">Undergraduate</a>
@@ -72,7 +70,7 @@
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="sf-mega-section column-15">
+                                    <div class="sf-mega-section">
                                         <div
                                             class="sf-mega-section-inner menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5740">
                                             <a href="#" class="sf-with-ul-pre">Graduate Program</a>
@@ -101,7 +99,7 @@
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="sf-mega-section column-15">
+                                    <div class="sf-mega-section">
                                         <div
                                             class="sf-mega-section-inner menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5741">
                                             <a href="#" class="sf-with-ul-pre">Research</a>
@@ -165,19 +163,7 @@
                         </li>
                         <li
                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6036 normal-menu">
-                            <a href="/kingster/course-search/?course-keywords"
-                                class="sf-with-ul-pre sf-with-ul">Courses</a>
-                            <ul class="sub-menu" style="display: none;">
-                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6029"
-                                    data-size="60"><a href="/kingster/course-search/?course-keywords">Course
-                                        Search</a></li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6035"
-                                    data-size="60"><a href="{{ route('home') }}course-list-1/">Course List 1</a>
-                                </li>
-                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6034"
-                                    data-size="60"><a href="{{ route('home') }}course-list-2/">Course List 2</a>
-                                </li>
-                            </ul>
+                            <a href="{{ route('majors') }}" class="sf-with-ul-pre sf-with-ul">Majors</a>
                         </li>
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5734 normal-menu">
