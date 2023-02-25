@@ -67,14 +67,14 @@
     zoom: 1;
 }
 
-.gdlr-core-social-network-item .gdlr-core-social-network-icon:first-child {
+.core-social-network-item .core-social-network-icon:first-child {
     margin-left: 0;
 }
 
-.gdlr-core-social-network-item .gdlr-core-social-network-icon {
+.core-social-network-item .core-social-network-icon {
     font-size: 19px;
 }
-.gdlr-core-social-network-item .gdlr-core-social-network-icon {
+.core-social-network-item .core-social-network-icon {
     margin-left: 20px;
     font-size: 19px;
     display: inline-block;

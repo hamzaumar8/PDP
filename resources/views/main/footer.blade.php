@@ -6,27 +6,27 @@
                     <div id="text-2" class="widget widget_text widget">
                         <div class="textwidget">
                             <p>Pnuema Desert Places<br>
-                                <span class="gdlr-core-space-shortcode" style="margin-top: 5px ;"></span><br>
+                                <span class="core-space-shortcode" style="margin-top: 5px ;"></span><br>
                                 Sabon Zongo<br>
                                 Bolgatanga , UE.
                             </p>
                             <p><span style="font-size: 15px; color: #ffffff;">+233 505 401 959</span><br>
-                                <span class="gdlr-core-space-shortcode" style="margin-top: -20px ;"></span><br>
+                                <span class="core-space-shortcode" style="margin-top: -20px ;"></span><br>
                                 <a style="font-size: 15px; color: #ffffff;"
                                     href="mailto:abednegobansah@gmail.com">abednegobansah@gmail.com</a>
                             </p>
-                            <div class="gdlr-core-divider-item gdlr-core-divider-item-normal gdlr-core-left-align">
-                                <div class="gdlr-core-divider-line gdlr-core-skin-divider"
+                            <div class="core-divider-item core-divider-item-normal core-left-align">
+                                <div class="core-divider-line core-skin-divider"
                                     style="border-color: #ff6c00 ;border-width: 2px;"></div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="footer-column px-5 column-15">
-                    <div id="gdlr-core-custom-menu-widget-2" class="widget widget_gdlr-core-custom-menu-widget widget">
+                    <div id="core-custom-menu-widget-2" class="widget widget_core-custom-menu-widget widget">
                         <h3 class="widget-title">Our Campus</h3><span class="clear"></span>
                         <div class="menu-our-campus-container">
-                            <ul id="menu-our-campus" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
+                            <ul id="menu-our-campus" class="core-custom-menu-widget core-menu-style-plain">
                                 <li
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5709 normal-menu">
                                     <a href="#">Acedemic</a>
@@ -56,10 +56,10 @@
                     </div>
                 </div>
                 <div class="footer-column px-5 column-15">
-                    <div id="gdlr-core-custom-menu-widget-3" class="widget widget_gdlr-core-custom-menu-widget widget">
+                    <div id="core-custom-menu-widget-3" class="widget widget_core-custom-menu-widget widget">
                         <h3 class="widget-title">Campus Life</h3><span class="clear"></span>
                         <div class="menu-campus-life-container">
-                            <ul id="menu-campus-life" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
+                            <ul id="menu-campus-life" class="core-custom-menu-widget core-menu-style-plain">
                                 <li
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5715 normal-menu">
                                     <a href="#">Accessibility</a>
@@ -89,10 +89,10 @@
                     </div>
                 </div>
                 <div class="footer-column px-5 column-15">
-                    <div id="gdlr-core-custom-menu-widget-4" class="widget widget_gdlr-core-custom-menu-widget widget">
+                    <div id="core-custom-menu-widget-4" class="widget widget_core-custom-menu-widget widget">
                         <h3 class="widget-title">Academics</h3><span class="clear"></span>
                         <div class="menu-academics-container">
-                            <ul id="menu-academics" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
+                            <ul id="menu-academics" class="core-custom-menu-widget core-menu-style-plain">
                                 <li
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5721 normal-menu">
                                     <a href="#">Canvas</a>
@@ -133,16 +133,16 @@
                     </script> All Right Reserved.
                 </div>
                 <div class="px-5">
-                    <div class="gdlr-core-social-network-item gdlr-core-none-align"><a href="#" target="_blank"
-                            class="gdlr-core-social-network-icon" title="facebook"><i class="fa fa-facebook"></i></a><a
-                            href="#" target="_blank" class="gdlr-core-social-network-icon" title="google-plus"><i
+                    <div class="core-social-network-item core-none-align"><a href="#" target="_blank"
+                            class="core-social-network-icon" title="facebook"><i class="fa fa-facebook"></i></a><a
+                            href="#" target="_blank" class="core-social-network-icon" title="google-plus"><i
                                 class="fa fa-google-plus"></i></a><a href="#" target="_blank"
-                            class="gdlr-core-social-network-icon" title="linkedin"><i class="fa fa-linkedin"></i></a><a
-                            href="#" target="_blank" class="gdlr-core-social-network-icon" title="skype"><i
+                            class="core-social-network-icon" title="linkedin"><i class="fa fa-linkedin"></i></a><a
+                            href="#" target="_blank" class="core-social-network-icon" title="skype"><i
                                 class="fa fa-skype"></i></a><a href="#" target="_blank"
-                            class="gdlr-core-social-network-icon" title="twitter"><i class="fa fa-twitter"></i></a><a
-                            href="#" target="_blank" class="gdlr-core-social-network-icon"
-                            title="instagram"><i class="fa fa-instagram"></i></a></div>
+                            class="core-social-network-icon" title="twitter"><i class="fa fa-twitter"></i></a><a
+                            href="#" target="_blank" class="core-social-network-icon" title="instagram"><i
+                                class="fa fa-instagram"></i></a></div>
                 </div>
             </div>
         </div>

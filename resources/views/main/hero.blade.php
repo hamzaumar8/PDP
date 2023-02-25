@@ -1,4 +1,4 @@
-<div class="gdlr-core-pbf-wrappe relative ">
+<div class="core-pbf-wrappe relative ">
     <div class="swiper heroSwiper">
         <div class="nav-hero-icons left-0">
             <div class="hero-swiper-button-prev">

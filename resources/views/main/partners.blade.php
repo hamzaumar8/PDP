@@ -1,42 +1,46 @@
-<div class="gdlr-core-pbf-wrapper " style="padding: 55px 0px 20px 0px;">
-    <div class="gdlr-core-pbf-background-wrap" style="background-color: #6C0078 ;"></div>
-    <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
-        <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container-custom container">
-            <div class="gdlr-core-pbf-element">
-                <div class="gdlr-core-gallery-item gdlr-core-item-pdb clearfix  gdlr-core-gallery-item-style-grid"
+<div class="core-pbf-wrapper " style="padding: 55px 0px 20px 0px;">
+    <div class="core-pbf-background-wrap" style="background-color: #6C0078 ;"></div>
+
+    <div class="core-pbf-wrapper-content core-js ">
+        <div class="core-pbf-wrapper-container clearfix core-container-custom container">
+            <div class="core-block-item-title-wrap  core-left-align core-item-mglr" style="margin-bottom: 40px ;">
+                <div class="core-block-item-title-inner clearfix">
+                    <h3 class="core-block-item-title !text-white !text-[30px] !capitalize"
+                        style="font-style: normal ;letter-spacing: 0px ;">
+                        Our Partners</h3>
+                </div>
+            </div>
+            <div class="core-pbf-element">
+                <div class="core-gallery-item core-item-pdb clearfix  core-gallery-item-style-grid"
                     style="padding-bottom: 0px ;">
-                    <div class="gdlr-core-gallery-item-holder gdlr-core-js-2 clearfix" data-layout="fitrows">
+                    <div class="core-gallery-item-holder core-js-2 clearfix" data-layout="fitrows">
                         <div
-                            class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12 gdlr-core-column-first gdlr-core-item-pdlr gdlr-core-item-mgb">
-                            <div class="gdlr-core-gallery-list gdlr-core-media-image">
+                            class="core-item-list core-gallery-column  core-column-12 core-column-first core-item-pdlr core-item-mgb">
+                            <div class="core-gallery-list core-media-image">
                                 <img src="https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/banner-1.png"
                                     alt="" width="248" height="120" title="banner-1">
                             </div>
                         </div>
-                        <div
-                            class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12 gdlr-core-item-pdlr gdlr-core-item-mgb">
-                            <div class="gdlr-core-gallery-list gdlr-core-media-image">
+                        <div class="core-item-list core-gallery-column  core-column-12 core-item-pdlr core-item-mgb">
+                            <div class="core-gallery-list core-media-image">
                                 <img src="https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/banner-2.png"
                                     alt="" width="248" height="120" title="banner-2">
                             </div>
                         </div>
-                        <div
-                            class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12 gdlr-core-item-pdlr gdlr-core-item-mgb">
-                            <div class="gdlr-core-gallery-list gdlr-core-media-image">
+                        <div class="core-item-list core-gallery-column  core-column-12 core-item-pdlr core-item-mgb">
+                            <div class="core-gallery-list core-media-image">
                                 <img src="https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/banner-3.png"
                                     alt="" width="248" height="120" title="banner-3">
                             </div>
                         </div>
-                        <div
-                            class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12 gdlr-core-item-pdlr gdlr-core-item-mgb">
-                            <div class="gdlr-core-gallery-list gdlr-core-media-image">
+                        <div class="core-item-list core-gallery-column  core-column-12 core-item-pdlr core-item-mgb">
+                            <div class="core-gallery-list core-media-image">
                                 <img src="https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/banner-4-1.png"
                                     alt="" width="248" height="120" title="banner-4">
                             </div>
                         </div>
-                        <div
-                            class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12 gdlr-core-item-pdlr gdlr-core-item-mgb">
-                            <div class="gdlr-core-gallery-list gdlr-core-media-image">
+                        <div class="core-item-list core-gallery-column  core-column-12 core-item-pdlr core-item-mgb">
+                            <div class="core-gallery-list core-media-image">
                                 <img src="https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/banner-5.png"
                                     alt="" width="248" height="120" title="banner-5">
                             </div>
