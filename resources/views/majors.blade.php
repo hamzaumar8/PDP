@@ -15,7 +15,7 @@
                 <div class=" kingster-sidebar-center kingster-column-40 kingster-line-height">
                     <div class="core-page-builder-body">
                         <div class="core-pbf-wrapper ">
-                            <div class="core-pbf-wrapper-content core-js ">
+                            <div class="core-pbf-wrapper-content  ">
                                 <div class="core-pbf-wrapper-container clearfix core-container">
                                     <div class="core-pbf-element">
                                         <div class="core-title-item core-item-pdb clearfix  core-left-align core-title-item-caption-top core-item-pdlr"

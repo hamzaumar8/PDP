@@ -1,11 +1,11 @@
 <section class="realtive py-20 bg-[#ff6c00]">
     <div class="container">
         <div class="core-pbf-wrapper">
-            <div class="core-pbf-wrapper-content core-js ">
+            <div class="core-pbf-wrapper-content  ">
                 <div class="core-pbf-wrapper-container clearfix core-container">
                     <div class="core-pbf-column core-column-20 core-column-first">
-                        <div class="core-pbf-column-content-margin core-js ">
-                            <div class="core-pbf-column-content clearfix core-js ">
+                        <div class="core-pbf-column-content-margin  ">
+                            <div class="core-pbf-column-content clearfix  ">
                                 <div class="core-pbf-element">
                                     <div class="core-image-item core-item-pdb  core-left-align core-item-pdlr"
                                         style="padding-bottom: 20px ;">
@@ -30,8 +30,8 @@
                         </div>
                     </div>
                     <div class="core-pbf-column core-column-40">
-                        <div class="core-pbf-column-content-margin core-js ">
-                            <div class="core-pbf-column-content clearfix core-js ">
+                        <div class="core-pbf-column-content-margin  ">
+                            <div class="core-pbf-column-content clearfix  ">
                                 <div class="core-pbf-element">
                                     <div class="core-text-box-item core-item-pdlr core-item-pdb core-left-align"
                                         style="padding-bottom: 15px ;">

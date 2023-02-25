@@ -12,7 +12,7 @@
                     </div><a class="core-block-item-read-more" href="#" target="_self"
                         style="color: #ff6c00 ;">Read All News</a>
                 </div>
-                <div class="core-blog-item-holder core-js-2 clearfix" data-layout="fitrows">
+                <div class="core-blog-item-holder -2 clearfix" data-layout="fitrows">
                     <div class="core-item-list  core-item-pdlr core-column-20 core-column-first">
                         <div class="core-blog-grid ">
                             <div class="core-blog-thumbnail core-media-image  core-opacity-on-hover core-zoom-on-hover">

@@ -2,14 +2,14 @@
     @include('main.hero')
     <div class="core-pbf-wrapper  hp1-col-services" style="margin: -43px auto 0px auto;padding: 0px 0px 0px 0px; ;"
         data-skin="Blue Title" id="core-wrapper-1">
-        <div class="core-pbf-wrapper-content core-js container ">
+        <div class="core-pbf-wrapper-content  container ">
             <div class="core-pbf-wrapper-container clearfix core-pbf-wrapper-full-no-space">
                 <div class=" core-pbf-wrapper-container-inner core-item-mglr clearfix"
                     style="box-shadow: 0 -6px 24px rgba(10, 10, 10,0.09); -moz-box-shadow: 0 -6px 24px rgba(10, 10, 10,0.09); -webkit-box-shadow: 0 -6px 24px rgba(10, 10, 10,0.09); background-color: #ffffff ;border-radius:  3px 3px ;-moz-border-radius:  3px 3px ;-webkit-border-radius:  3px 3px ;z-index: 99 ;">
                     <div class="core-pbf-column core-column-15 core-column-first">
-                        <div class="core-pbf-column-content-margin core-js " style="padding: 52px 0px 0px 66px;">
+                        <div class="core-pbf-column-content-margin  " style="padding: 52px 0px 0px 66px;">
                             <div class="core-pbf-background-wrap"></div>
-                            <div class="core-pbf-column-content clearfix core-js ">
+                            <div class="core-pbf-column-content clearfix  ">
                                 <div class="core-pbf-element">
                                     <div class="core-column-service-item core-item-pdb  core-left-align core-column-service-icon-left core-with-caption core-item-pdlr"
                                         style="padding-bottom: 30px;">
@@ -32,10 +32,10 @@
                         </div>
                     </div>
                     <div class="core-pbf-column core-column-15" id="core-column-83918">
-                        <div class="core-pbf-column-content-margin core-js "
+                        <div class="core-pbf-column-content-margin  "
                             style="margin: 0px 0px 0px 0px;padding: 52px 0px 0px 66px;">
                             <div class="core-pbf-background-wrap"></div>
-                            <div class="core-pbf-column-content clearfix core-js ">
+                            <div class="core-pbf-column-content clearfix  ">
                                 <div class="core-pbf-element">
                                     <div class="core-column-service-item core-item-pdb  core-left-align core-column-service-icon-left core-with-caption core-item-pdlr"
                                         style="padding-bottom: 30px;">
@@ -58,9 +58,9 @@
                         </div>
                     </div>
                     <div class="core-pbf-column core-column-15" id="core-column-40309">
-                        <div class="core-pbf-column-content-margin core-js " style="padding: 52px 0px 0px 66px;">
+                        <div class="core-pbf-column-content-margin  " style="padding: 52px 0px 0px 66px;">
                             <div class="core-pbf-background-wrap"></div>
-                            <div class="core-pbf-column-content clearfix core-js ">
+                            <div class="core-pbf-column-content clearfix  ">
                                 <div class="core-pbf-element">
                                     <div class="core-column-service-item core-item-pdb  core-left-align core-column-service-icon-left core-with-caption core-item-pdlr"
                                         style="padding-bottom: 30px;">
@@ -83,9 +83,9 @@
                         </div>
                     </div>
                     <div class="core-pbf-column core-column-15" id="core-column-49132">
-                        <div class="core-pbf-column-content-margin core-js " style="padding: 52px 0px 0px 46px;">
+                        <div class="core-pbf-column-content-margin  " style="padding: 52px 0px 0px 46px;">
                             <div class="core-pbf-background-wrap"></div>
-                            <div class="core-pbf-column-content clearfix core-js ">
+                            <div class="core-pbf-column-content clearfix  ">
                                 <div class="core-pbf-element">
                                     <div class="core-column-service-item core-item-pdb  core-left-align core-column-service-icon-left core-with-caption core-item-pdlr"
                                         style="padding-bottom: 30px;">
@@ -120,23 +120,23 @@
                     <div class="core-pbf-column-content-margin" style="min-height: 450px; height: 480.422px;"
                         data-sync-height="height-1">
                         <div class="core-pbf-background-wrap">
-                            <div class="core-pbf-background core-parallax core-js"
+                            <div class="core-pbf-background core-parallax "
                                 style="background-image: url(https://images.pexels.com/photos/9159042/pexels-photo-9159042.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) ;background-size: cover ;background-position: center ;"
                                 data-parallax-speed="0"></div>
                         </div>
-                        <div class="core-pbf-column-content clearfix core-js  core-sync-height-content">
+                        <div class="core-pbf-column-content clearfix   core-sync-height-content">
                         </div>
                     </div>
                 </div>
                 <div class="core-pbf-column core-column-30" id="core-column-41801">
-                    <div class="core-pbf-column-content-margin core-js "
+                    <div class="core-pbf-column-content-margin  "
                         style="padding: 80px 70px 55px 55px; height: 480.422px;" data-sync-height="height-1">
                         <div class="core-pbf-background-wrap">
-                            <div class="core-pbf-background core-parallax core-js"
+                            <div class="core-pbf-background core-parallax "
                                 style="background-image: url(&quot;https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/about-bg-2.jpg&quot;); background-size: cover; background-position: center center; height: 528.48px; transform: translate(0px, -20.9766px);"
                                 data-parallax-speed="0.1"></div>
                         </div>
-                        <div class="core-pbf-column-content clearfix core-js  core-sync-height-content">
+                        <div class="core-pbf-column-content clearfix   core-sync-height-content">
                             <div class="core-pbf-element">
                                 <div class="core-title-item core-item-pdb clearfix  core-left-align core-title-item-caption-bottom core-item-pdlr"
                                     style="padding-bottom: 20px ;">

@@ -1,7 +1,7 @@
 <div class="core-pbf-wrapper " style="padding: 55px 0px 20px 0px;">
     <div class="core-pbf-background-wrap" style="background-color: #6C0078 ;"></div>
 
-    <div class="core-pbf-wrapper-content core-js ">
+    <div class="core-pbf-wrapper-content  ">
         <div class="core-pbf-wrapper-container clearfix core-container-custom container">
             <div class="core-block-item-title-wrap  core-left-align core-item-mglr" style="margin-bottom: 40px ;">
                 <div class="core-block-item-title-inner clearfix">
@@ -13,7 +13,7 @@
             <div class="core-pbf-element">
                 <div class="core-gallery-item core-item-pdb clearfix  core-gallery-item-style-grid"
                     style="padding-bottom: 0px ;">
-                    <div class="core-gallery-item-holder core-js-2 clearfix" data-layout="fitrows">
+                    <div class="core-gallery-item-holder -2 clearfix" data-layout="fitrows">
                         <div
                             class="core-item-list core-gallery-column  core-column-12 core-column-first core-item-pdlr core-item-mgb">
                             <div class="core-gallery-list core-media-image">
