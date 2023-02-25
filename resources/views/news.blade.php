@@ -1,3 +1,3 @@
 <x-main-layout>
-    about us
+    news
 </x-main-layout>

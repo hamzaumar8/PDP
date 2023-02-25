@@ -171,7 +171,7 @@
                                 <div
                                     class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
                                     <a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-left-align gdlr-core-button-no-border"
-                                        href="/kingster/apply-to-kingster/"
+                                        href="#"
                                         style="font-size: 15px ;color: #ffffff ;padding: 12px 29px 17px 31px;text-transform: none ;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;"><span
                                             class="gdlr-core-content">Apply Now</span></a>
                                 </div>
@@ -182,6 +182,27 @@
             </div>
         </div>
     </div>
+
+    <section class="relative py-20">
+        <div class="container">
+            <div class="bg-[#6C0078] py-14 px-20">
+                <div>
+                    <h2 class="text-center text-[40px] leading-[40px] text-white mb-10">250+ majors, minors, and
+                        certificate
+                        programs
+                    </h2>
+
+                    <div
+                        class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align text-center">
+                        <a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-left-align gdlr-core-button-no-border"
+                            href="{{ route('majors') }}"
+                            style="font-size: 15px ;color: #ffffff ;padding: 12px 29px 17px 31px;text-transform: none ;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;"><span
+                                class="gdlr-core-content">Find your major</span></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     @include('main.news')
     @include('main.partners')
 </x-main-layout>

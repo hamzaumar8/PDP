@@ -18,7 +18,7 @@
                         </li>
                         <li x-on:mouseenter="aboutOpen = true" x-on:mouseleave="aboutOpen = false"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-5271 normal-menu">
-                            <a href="{{ route('home') }}" class="sf-with-ul-pre sf-with-ul">About PDP</a>
+                            <a href="{{ route('about-us') }}" class="sf-with-ul-pre sf-with-ul">About PDP</a>
                             <ul class="sub-menu" x-show="aboutOpen" x-on:mouseleave="aboutOpen = false">
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-6000"
                                     data-size="60"><a href="{{ route('about-us') }}">Message from the President</a></li>
@@ -104,35 +104,31 @@
                                     <div class="sf-mega-section column-15">
                                         <div
                                             class="sf-mega-section-inner menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5741">
-                                            <a href="#" class="sf-with-ul-pre">Resources</a>
+                                            <a href="#" class="sf-with-ul-pre">Research</a>
                                             <ul class="sub-menu">
                                                 <li
                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5911">
-                                                    <a
-                                                        href="{{ route('home') }}bachelor-of-science-in-business-administration/">Department
+                                                    <a href="{{ route('home') }}">Department
                                                         Page</a>
                                                 </li>
                                                 <li
                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5912">
-                                                    <a
-                                                        href="{{ route('home') }}bachelor-of-science-in-business-administration/finance/">Major
+                                                    <a href="{{ route('home') }}/">Major
                                                         Page</a>
                                                 </li>
                                                 <li
                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5913">
-                                                    <a
-                                                        href="{{ route('home') }}bachelor-of-science-in-business-administration/finance/finance-faculty/">Faculty
+                                                    <a href="{{ route('home') }}">Faculty
                                                         Page</a>
                                                 </li>
                                                 <li
                                                     class="menu-item menu-item-type-post_type menu-item-object-personnel menu-item-5919">
-                                                    <a href="{{ route('home') }}personnel/john-hagensy-phd/">Single
+                                                    <a href="{{ route('home') }}">Single
                                                         Instructor</a>
                                                 </li>
                                                 <li
                                                     class="menu-item menu-item-type-post_type menu-item-object-course menu-item-5955">
-                                                    <a
-                                                        href="{{ route('home') }}course/introduction-to-financial-accounting/">Single
+                                                    <a href="{{ route('home') }}">Single
                                                         Course</a>
                                                 </li>
                                             </ul>

@@ -21,6 +21,13 @@ Route::get('/', function () {
 Route::get('/about-us', function () {
     return view('about');
 })->name('about-us');
+Route::get('/news', function () {
+    return view('news');
+})->name('news');
+
+Route::get('/majors', function () {
+    return view('majors');
+})->name('majors');
 
 
 Route::get('/dashboard', function () {
