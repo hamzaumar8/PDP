@@ -20,7 +20,7 @@
                                             <div class="column-service-title-wrap">
                                                 <h3 class="column-service-title skin-title"
                                                     style="font-size: 18px ;font-weight: 600 ;text-transform: none ;">
-                                                    Colllege Life</h3>
+                                                    College Life</h3>
                                                 <div class="column-service-caption info-font skin-caption"
                                                     style="font-size: 16px ;font-weight: 500 ;font-style: normal ;">
                                                     Overall in here</div>
@@ -96,7 +96,7 @@
                                             <div class="column-service-title-wrap">
                                                 <h3 class="column-service-title skin-title"
                                                     style="font-size: 18px ;font-weight: 600 ;text-transform: none ;">
-                                                    Social</h3>
+                                                    Social transformation</h3>
                                                 <div class="column-service-caption info-font skin-caption"
                                                     style="font-size: 16px ;font-weight: 500 ;font-style: normal ;">
                                                     Overall in here</div>

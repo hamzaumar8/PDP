@@ -167,7 +167,7 @@
                         </li>
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5733 normal-menu">
-                            <a href="{{ route('home') }}Colllege-life/">Colllege Life</a>
+                            <a href="{{ route('home') }}College-life/">College Life</a>
                         </li>
                     </ul>
                 </div>

@@ -28,7 +28,7 @@
                                 </div>
                                 <div class="pbf-element">
                                     <div class="course-item item-px course-style-list">
-                                        <div class="course-item-list bg-[#6C0078] pt-2 px-2">
+                                        <div class="course-item-list bg-[#ff6c00] pt-2 px-2">
                                             <a class="course-item-link" href="#">
                                                 <span class="course-item-id skin-caption">Programmes</span>
                                                 <span class="course-item-title skin-title !text-white">Colleges</span>

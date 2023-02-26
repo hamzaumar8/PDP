@@ -27,7 +27,7 @@
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5734"><a
                             href="#">Rural Evangelism</a></li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5733"><a
-                            href="#">Colllege Life</a></li>
+                            href="#">College Life</a></li>
                 </ul>
             </div>
             <div class="mm-panel mm-hasnavbar"

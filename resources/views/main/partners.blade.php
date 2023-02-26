@@ -1,5 +1,5 @@
 <div class="pbf-wrapper " style="padding: 55px 0px 20px 0px;">
-    <div class="pbf-background-wrap" style="background-color: #6C0078 ;"></div>
+    <div class="pbf-background-wrap bg-[#6C0078]"></div>
 
     <div class="pbf-wrapper-content  ">
         <div class="pbf-wrapper-container clearfix container-custom container">
