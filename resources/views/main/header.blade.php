@@ -140,7 +140,7 @@
                             <a href="{{ route('apply') }}" class="sf-with-ul-pre sf-with-ul">Admissions</a>
                             <ul class="sub-menu" x-show="admissionsOpen">
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5729"
-                                    data-size="60"><a href="{{ route('home') }}">Apply To
+                                    data-size="60"><a href="{{ route('apply') }}">Apply To
                                         PDP</a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5918"
                                     data-size="60"><a href="{{ route('home') }}">Campus
@@ -148,7 +148,7 @@
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5730"
                                     data-size="60"><a href="{{ route('home') }}">Scholarships</a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5731"
-                                    data-size="60"><a href="{{ route('home') }}">Athletics</a></li>
+                                    data-size="60"><a href="{{ route('home') }}">Rural Evangelism</a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5917"
                                     data-size="60"><a href="{{ route('home') }}">Alumni</a>
                                 </li>
@@ -163,11 +163,11 @@
                         </li>
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5734 normal-menu">
-                            <a href="{{ route('home') }}athletics/">Athletics</a>
+                            <a href="{{ route('home') }}Rural Evangelism/">Rural Evangelism</a>
                         </li>
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5733 normal-menu">
-                            <a href="{{ route('home') }}university-life/">University Life</a>
+                            <a href="{{ route('home') }}Colllege-life/">Colllege Life</a>
                         </li>
                     </ul>
                 </div>

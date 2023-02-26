@@ -41,9 +41,9 @@
                     <div class="event-item-list item-px style-grid column-20 without-frame  clearfix">
                         <div class="event-item-list-inner">
                             <div class="event-item-thumbnail"><a href="#"><img
-                                        src="https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/page-title-athletics-900x500.jpg"
+                                        src="https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/page-title-Rural Evangelism-900x500.jpg"
                                         width="900" height="500"
-                                        srcset="https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/page-title-athletics-400x222.jpg 400w, https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/page-title-athletics-600x333.jpg 600w, https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/page-title-athletics-900x500.jpg 900w"
+                                        srcset="https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/page-title-Rural Evangelism-400x222.jpg 400w, https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/page-title-Rural Evangelism-600x333.jpg 600w, https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/page-title-Rural Evangelism-900x500.jpg 900w"
                                         sizes="(max-width: 767px) 100vw, (max-width: 1150px) 100vw, 1150px"
                                         alt=""></a>
                             </div><span class="event-item-info skin-caption type-start-date-month"><span

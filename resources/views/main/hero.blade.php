@@ -22,13 +22,14 @@
                     style="background: url(https://images.unsplash.com/photo-1613592498887-da347580ec0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80);background-repeat: no-repeat; background-size: cover;background-position: center;">
                     <div class="container py-10 ">
                         <div class="space-y-6">
-                            <p>Be a part of our history </p>
+                            <p>Be a part of our revival </p>
                             <h1
                                 class="bg-[#ff6c00] text-white text-[32px] leading-[32px] lg:text-[80px] lg:leading-[80px] font-bold inline-block py-3 px-4">
                                 Pnuema Desert Places
                             </h1>
                             <div class="badge">
-                                <a href="#" class="inline-flex items-center space-x-1"><span>Apply</span>
+                                <a href="{{ route('apply') }}"
+                                    class="inline-flex items-center space-x-1"><span>Apply</span>
                                     <i class="fa fa-chevron-right ml-1"></i></a>
                             </div>
                         </div>
@@ -46,7 +47,8 @@
                                 180 majors and minors
                             </h1>
                             <div class="badge">
-                                <a href="#" class="inline-flex items-center space-x-1"><span>Apply</span>
+                                <a href="{{ route('apply') }}"
+                                    class="inline-flex items-center space-x-1"><span>Apply</span>
                                     <i class="fa fa-chevron-right ml-1"></i></a>
                             </div>
                         </div>
@@ -58,13 +60,14 @@
                     style="background: url(https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80);background-repeat: no-repeat; background-size: cover;background-position: center;">
                     <div class="container py-10 ">
                         <div class="space-y-6">
-                            <p> The Virtual University of</p>
+                            <p> The Virtual Colllege of</p>
                             <h1
                                 class="bg-[#ff6c00] text-white text-[32px] leading-[32px] lg:text-[80px] lg:leading-[80px] font-bold inline-block py-3 px-4">
                                 Choice currently enrolling student
                             </h1>
                             <div class="badge">
-                                <a href="#" class="inline-flex items-center space-x-1"><span>Apply</span>
+                                <a href="{{ route('apply') }}"
+                                    class="inline-flex items-center space-x-1"><span>Apply</span>
                                     <i class="fa fa-chevron-right ml-1"></i></a>
                             </div>
                         </div>

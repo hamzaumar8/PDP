@@ -19,7 +19,7 @@
                                         <div class="title-item-title-wrap clearfix">
                                             <h3 class="title-item-title skin-title "
                                                 style="font-size: 31px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;color: #6C0078 ;">
-                                                About Our University</h3>
+                                                About Our Colllege</h3>
                                         </div>
                                     </div>
                                 </div>

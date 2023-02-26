@@ -12,7 +12,7 @@
             <div class="space-x-5 px-5">
                 <a href="#">Alumni</a>
                 <a href="https://elearning.pdp.edu.gh">E-learning</a>
-                <a href="#">Portal</a>
+                <a href="https://portal.pdp.edu.gh">Portal</a>
             </div>
         </div>
     </div>

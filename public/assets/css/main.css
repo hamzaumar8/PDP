@@ -11091,7 +11091,7 @@ form.submitting .wpcf7-spinner {
     content: "\f19b"
 }
 
-.fa-institution:before,.fa-bank:before,.fa-university:before {
+.fa-institution:before,.fa-bank:before,.fa-Colllege:before {
     content: "\f19c"
 }
 
@@ -17751,6 +17751,7 @@ ul.slides .clearfix {
 .tab-style1-horizontal .tab-item-content {
     padding: 25px 0 5px
 }
+
 
 .tab-style2-horizontal .tab-item-title-wrap {
     border-bottom-width: 2px;
@@ -37227,7 +37228,7 @@ input,textarea {
 
 .tab-style1-horizontal .tab-item-title {
     border: 0;
-    margin-left: 0;
+    margin-left: -4px !important;
     padding: 24px 40px 24px
 }
 
@@ -37242,7 +37243,7 @@ input,textarea {
 
 .tab-style1-horizontal .tab-item-content {
     padding: 67px 59px 45px;
-    background-repeat: no-repeat
+    background:white !important;
 }
 
 

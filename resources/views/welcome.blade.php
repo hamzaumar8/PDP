@@ -20,7 +20,7 @@
                                             <div class="column-service-title-wrap">
                                                 <h3 class="column-service-title skin-title"
                                                     style="font-size: 18px ;font-weight: 600 ;text-transform: none ;">
-                                                    University Life</h3>
+                                                    Colllege Life</h3>
                                                 <div class="column-service-caption info-font skin-caption"
                                                     style="font-size: 16px ;font-weight: 500 ;font-style: normal ;">
                                                     Overall in here</div>
@@ -71,7 +71,7 @@
                                             <div class="column-service-title-wrap">
                                                 <h3 class="column-service-title skin-title"
                                                     style="font-size: 18px ;font-weight: 600 ;text-transform: none ;">
-                                                    Athletics</h3>
+                                                    Rural Evangelism</h3>
                                                 <div class="column-service-caption info-font skin-caption"
                                                     style="font-size: 16px ;font-weight: 500 ;font-style: normal ;">
                                                     Sport Clubs</div>

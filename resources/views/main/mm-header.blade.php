@@ -25,9 +25,9 @@
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5734"><a
                             href="{{ route('majors') }}">Majors</a></li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5734"><a
-                            href="#">Athletics</a></li>
+                            href="#">Rural Evangelism</a></li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5733"><a
-                            href="#">University Life</a></li>
+                            href="#">Colllege Life</a></li>
                 </ul>
             </div>
             <div class="mm-panel mm-hasnavbar"

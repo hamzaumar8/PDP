@@ -1,12 +1,12 @@
-<div class="pbf-wrapper py-20">
+<div class="pbf-wrapper py-20 bg-[#e6e6e6]">
     <div class="pbf-wrapper-content  ">
-        <div class="pbf-wrapper-container clearfix container container">
+        <div class="pbf-wrapper-container clearfix container">
             <div class="pbf-element">
                 <div class="tab-item  item-pb  left-align tab-style1-horizontal item-px grid grid-cols-3"
                     x-data="{ 'activeTab': 'tab1' }">
                     <div class="tab-item-content-image-wrap min-h-full h-full">
                         <div class="tab-item-image-background"
-                            style="background-image: url(https://images.pexels.com/photos/9159054/pexels-photo-9159054.jpeg?auto=compress&cs=tinysrgb&w=1600);background-repeat: no-repeat; background-size: cover;background-position: center;">
+                            style="background-image: url({{ asset('assets/img/pdp-self.jpg') }});background-repeat: no-repeat; background-size: cover;background-position: center;">
                         </div>
                     </div>
                     <div class="tab-item-wrap col-span-3 lg:col-span-2">
