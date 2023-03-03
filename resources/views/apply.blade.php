@@ -1,6 +1,6 @@
 <x-main-layout>
     <div class="page-title-wrap  style-custom left-align"
-        style="background-image: url(https://images.pexels.com/photos/1454360/pexels-photo-1454360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) ;">
+        style="background-image: url({{ asset('assets/img/8.jpg') }}) ;">
         <div class="header-transparent-substitute"></div>
         <div class="page-title-overlay"></div>
         <div class="page-title-bottom-gradient"></div>
