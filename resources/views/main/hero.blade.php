@@ -19,13 +19,13 @@
         <div class="swiper-wrapper">
             <div class="swiper-slide">
                 <div class="hero-slide-wrapper flex items-center"
-                    style="background: url(https://images.unsplash.com/photo-1613592498887-da347580ec0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80);background-repeat: no-repeat; background-size: cover;background-position: center;">
+                    style="background: url({{ asset('assets/img/8.jpg') }});background-repeat: no-repeat; background-size: cover;background-position: center;">
                     <div class="container py-10 ">
                         <div class="space-y-6">
                             <p>Be a part of our revival </p>
                             <h1
                                 class="bg-[#ff6c00] text-white text-[32px] leading-[32px] lg:text-[80px] lg:leading-[80px] font-bold inline-block py-3 px-4">
-                                Pnuema Desert Places
+                                Pneuma Desert Places
                             </h1>
                             <div class="badge">
                                 <a href="{{ route('apply') }}"
@@ -38,7 +38,7 @@
             </div>
             <div class="swiper-slide">
                 <div class="hero-slide-wrapper flex items-center"
-                    style="background: url(https://images.unsplash.com/photo-1525921429624-479b6a26d84d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);background-repeat: no-repeat; background-size: cover;background-position: center;">
+                    style="background: url({{ asset('assets/img/2.jpg') }});background-repeat: no-repeat; background-size: cover;background-position: center;">
                     <div class="container py-10 ">
                         <div class="space-y-6">
                             <p>PDP has more than</p>
@@ -57,7 +57,7 @@
             </div>
             <div class="swiper-slide">
                 <div class="hero-slide-wrapper flex items-center"
-                    style="background: url(https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80);background-repeat: no-repeat; background-size: cover;background-position: center;">
+                    style="background: url({{ asset('assets/img/3.jpg') }});background-repeat: no-repeat; background-size: cover;background-position: center;">
                     <div class="container py-10 ">
                         <div class="space-y-6">
                             <p> The Virtual College of</p>

@@ -21,7 +21,7 @@
                                         style="padding-bottom: 40px ;">
                                         <div class="title-item-title-wrap clearfix">
                                             <h3 class="title-item-title skin-title "
-                                                style="font-size: 20px ;font-weight: 700 ;">Pnuema Desert Places Majors
+                                                style="font-size: 20px ;font-weight: 700 ;">Pneuma Desert Places Majors
                                             </h3>
                                         </div>
                                     </div>

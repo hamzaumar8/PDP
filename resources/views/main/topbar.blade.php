@@ -1,4 +1,4 @@
-<div class="top-bar bg-[#6C0078] text-[#e2e5eb] py-4 relative text-[15px]">
+<div class="top-bar bg-[#ff6c00] text-[#e2e5eb] py-4 relative text-[15px]">
     <div class="container ">
         <div class="flex items-center justify-between">
             <div class="top-bar-left space-x-5 px-5">

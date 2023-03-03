@@ -163,11 +163,11 @@
                         </li>
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5734 normal-menu">
-                            <a href="{{ route('home') }}Rural Evangelism/">Rural Evangelism</a>
+                            <a href="{{ route('home') }}">Rural Evangelism</a>
                         </li>
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5733 normal-menu">
-                            <a href="{{ route('home') }}College-life/">College Life</a>
+                            <a href="{{ route('home') }}">College Life</a>
                         </li>
                     </ul>
                 </div>

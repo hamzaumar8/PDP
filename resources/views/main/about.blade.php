@@ -34,14 +34,14 @@
                                         style="padding-bottom: 15px ;">
                                         <div class="text-box-item-content"
                                             style="font-size: 23px ;text-transform: none ;color: #d8e3fb ;">
-                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quod
-                                                rerum qui voluptatibus debitis consectetur nobis neque officiis
-                                                deleniti, in atque recusandae. Soluta accusamus labore voluptatibus
-                                                velit omnis provident laborum!</p>
+                                            <p>The Pneuma Desert Place is a Bible Institute of the Desert Pastures,
+                                                Fountain Gate Chapel, Eastwood Anaba Ministries and Kingdom Agreement.
+                                                It is an online and physical space where believers gather to know,
+                                                follow, live by and minister by the Spirit.</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="pbf-element">
+                                {{-- <div class="pbf-element">
                                     <div class="text-box-item item-px item-pb left-align"
                                         style="padding-bottom: 15px ;">
                                         <div class="text-box-item-content"
@@ -52,13 +52,13 @@
                                                 Sint ipsum porro veritatis!</p>
                                         </div>
                                     </div>
-                                </div>
+                                </div> --}}
                                 <div class="pbf-element">
                                     <div class="button-item item-px item-pb left-align">
 
-                                        <a class="button  button-solid left-align button-no-border !bg-[#6C0078]"
+                                        <a class="button  button-solid left-align button-no-border"
                                             href="{{ route('about-us') }}"
-                                            style="font-size: 15px ;color: #ffffff ;padding: 12px 29px 17px 31px;text-transform: none ;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;"><span
+                                            style="font-size: 15px ;color: #ffffff ;padding: 12px 29px 17px 31px;text-transform: none ;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;background-color:#2F2F2F;"><span
                                                 class="content">Read More</span> <i
                                                 class="pos-right fa fa-long-arrow-right"
                                                 style="font-size: 18px ;color: #ffffff ;"></i></a>

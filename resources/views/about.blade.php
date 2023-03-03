@@ -1,6 +1,6 @@
 <x-main-layout>
     <div class="page-title-wrap  style-custom left-align"
-        style="background-image: url(https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/about-title-bg.jpg) ;">
+        style="background-image: url({{ asset('assets/img/2.jpg') }}) ;">
         <div class="header-transparent-substitute"></div>
         <div class="page-title-overlay"></div>
         <div class="page-title-bottom-gradient"></div>
