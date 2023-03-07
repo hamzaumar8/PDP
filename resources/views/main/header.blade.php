@@ -5,7 +5,7 @@
             <div class="logo">
                 <div class="logo-inner">
                     <a class="" href="{{ route('home') }}">
-                        <img src="{{ asset('assets/img/logo.jpg') }}" alt="PDP LOGO" class="max-w-[80px]">
+                        <img src="{{ asset('assets/img/logo.jpg') }}" alt="PI LOGO" class="max-w-[80px]">
                     </a>
                 </div>
             </div>
@@ -18,7 +18,7 @@
                         </li>
                         <li x-on:mouseenter="aboutOpen = true" x-on:mouseleave="aboutOpen = false"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-5271 normal-menu">
-                            <a href="{{ route('about-us') }}" class="sf-with-ul-pre sf-with-ul">About PDP</a>
+                            <a href="{{ route('about-us') }}" class="sf-with-ul-pre sf-with-ul">About PI</a>
                             <ul class="sub-menu" x-show="aboutOpen" x-on:mouseleave="aboutOpen = false">
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-6000"
                                     data-size="60"><a href="{{ route('about-us') }}">Message from the President</a></li>
@@ -141,7 +141,7 @@
                             <ul class="sub-menu" x-show="admissionsOpen">
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5729"
                                     data-size="60"><a href="{{ route('apply') }}">Apply To
-                                        PDP</a></li>
+                                        PI</a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5918"
                                     data-size="60"><a href="{{ route('home') }}">Campus
                                         Tour</a></li>
@@ -167,7 +167,7 @@
                         </li>
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5733 normal-menu">
-                            <a href="{{ route('home') }}">College Life</a>
+                            <a href="{{ route('home') }}">Institute Life</a>
                         </li>
                     </ul>
                 </div>

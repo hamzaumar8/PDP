@@ -41,7 +41,7 @@
                     style="background: url({{ asset('assets/img/2.jpg') }});background-repeat: no-repeat; background-size: cover;background-position: center;">
                     <div class="container py-10 ">
                         <div class="space-y-6">
-                            <p>PDP has more than</p>
+                            <p>PI has more than</p>
                             <h1
                                 class="bg-[#ff6c00] text-white text-[32px] leading-[32px] lg:text-[80px] lg:leading-[80px] font-bold inline-block py-3 px-4">
                                 180 majors and minors
@@ -60,7 +60,7 @@
                     style="background: url({{ asset('assets/img/3.jpg') }});background-repeat: no-repeat; background-size: cover;background-position: center;">
                     <div class="container py-10 ">
                         <div class="space-y-6">
-                            <p> The Virtual College of</p>
+                            <p> The Virtual Institute of</p>
                             <h1
                                 class="bg-[#ff6c00] text-white text-[32px] leading-[32px] lg:text-[80px] lg:leading-[80px] font-bold inline-block py-3 px-4">
                                 Choice currently enrolling student

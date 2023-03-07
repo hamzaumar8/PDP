@@ -9,7 +9,7 @@
                                 {{-- <div class="pbf-element">
                                     <div class="image-item item-pb  left-align item-px" style="padding-bottom: 20px ;">
                                         <div class="image-item-wrap media-image  image-item-style-rectangle">
-                                            <img src="#" alt="PDP logo">
+                                            <img src="#" alt="PI logo">
                                         </div>
                                     </div>
                                 </div> --}}
@@ -19,7 +19,7 @@
                                         <div class="title-item-title-wrap clearfix">
                                             <h3 class="title-item-title skin-title "
                                                 style="font-size: 31px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;color: #ffffff ;">
-                                                About Our College</h3>
+                                                About Our Institute</h3>
                                         </div>
                                     </div>
                                 </div>

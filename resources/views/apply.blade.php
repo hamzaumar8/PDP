@@ -10,7 +10,7 @@
                     Admission</div>
                 <h1 class="page-title"
                     style="font-size: 48px ;font-weight: 700 ;text-transform: none ;letter-spacing: 0px ;color: #ffffff ;">
-                    Apply To PDP</h1>
+                    Apply To PI</h1>
             </div>
         </div>
     </div>
@@ -18,12 +18,11 @@
         <div class="breadcrumbs-container container">
             <div class="breadcrumbs-item item-px">
                 <!-- Breadcrumb NavXT 7.2.0 -->
-                <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage"
-                        title="Go to PDP." href="{{ route('home') }}" class="home"><span
-                            property="name">Home</span></a>
+                <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to PI."
+                        href="{{ route('home') }}" class="home"><span property="name">Home</span></a>
                     <meta property="position" content="1">
                 </span>&gt;<span property="itemListElement" typeof="ListItem"><span property="name">Apply To
-                        PDP</span>
+                        PI</span>
                     <meta property="position" content="2">
                 </span>
             </div>
@@ -51,12 +50,12 @@
                             <div class="pbf-element">
                                 <div class="text-box-item item-px item-pb left-align">
                                     <div class="text-box-item-content" style="font-size: 17px ;text-transform: none ;">
-                                        <p>If you would like to study in the college in the heart of the city that
+                                        <p>If you would like to study in the Institute in the heart of the city that
                                             focus on chaning the world for better to morrow, you’re choosin the right
                                             place. We do not use special formulas to select students. We look at every
                                             single applicant’s application, academic and personal, to select students
                                             who suit to our community with a full range of backgrounds. If you would
-                                            like to study in the college in the heart of the city.</p>
+                                            like to study in the Institute in the heart of the city.</p>
                                     </div>
                                 </div>
                             </div>
@@ -70,7 +69,7 @@
                             <div class="pbf-element">
                                 <div class="text-box-item item-px item-pb left-align">
                                     <div class="text-box-item-content" style="font-size: 17px ;text-transform: none ;">
-                                        <p>If you would like to study in the college in the heart of the city that
+                                        <p>If you would like to study in the Institute in the heart of the city that
                                             focus on chaning the world for better to morrow, you’re choosin the right
                                             place. We do not use special formulas to select students. We look at every
                                             single applicant’s application, academic and personal, to select students

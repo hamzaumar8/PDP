@@ -32,7 +32,7 @@
                                                 class="fa fa-clock-o"></i></span><span class="tail">1:00 pm - 1:00
                                             pm</span></span><span
                                         class="event-item-info skin-caption type-location"><span class="head"><i
-                                                class="fa fa-map-marker"></i></span><span class="tail">PDP Grand
+                                                class="fa fa-map-marker"></i></span><span class="tail">PI Grand
                                             Hall</span></span></div>
                             </div>
                         </div>
@@ -55,7 +55,7 @@
                                                 class="fa fa-clock-o"></i></span><span class="tail">1:00 pm - 1:00
                                             pm</span></span><span
                                         class="event-item-info skin-caption type-location"><span class="head"><i
-                                                class="fa fa-map-marker"></i></span><span class="tail">PDP Grand
+                                                class="fa fa-map-marker"></i></span><span class="tail">PI Grand
                                             Hall</span></span></div>
                             </div>
                         </div>
@@ -78,7 +78,7 @@
                                                 class="fa fa-clock-o"></i></span><span class="tail">8:00 am - 8:00
                                             am</span></span><span
                                         class="event-item-info skin-caption type-location"><span class="head"><i
-                                                class="fa fa-map-marker"></i></span><span class="tail">PDP Grand
+                                                class="fa fa-map-marker"></i></span><span class="tail">PI Grand
                                             Hall</span></span></div>
                             </div>
                         </div>

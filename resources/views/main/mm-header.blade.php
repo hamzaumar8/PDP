@@ -9,7 +9,7 @@
                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5227"
                         x-on:click="mmCurrent = 'mm-subopened'; mmTarget = 'mm-2'">
                         <a class="mm-next mm-fullsubopen" href="#mm-2" data-target="#mm-2"></a><span
-                            class="mm-menu-blank">About PDP</span>
+                            class="mm-menu-blank">About PI</span>
 
                     </li>
                     <li x-on:click="mmCurrent = 'mm-subopened'; mmTarget = 'mm-3'"
@@ -27,18 +27,18 @@
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5734"><a
                             href="#">Rural Evangelism</a></li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5733"><a
-                            href="#">College Life</a></li>
+                            href="#">Institute Life</a></li>
                 </ul>
             </div>
             <div class="mm-panel mm-hasnavbar"
                 :class="mmTarget === 'mm-2' ? 'mm-highest mm-current mm-opened' : 'mm-hidden'" id="mm-2">
                 <div class="mm-navbar" x-on:click="mmCurrent = 'mm-current'; mmTarget = ''">
                     <a class="mm-btn mm-prev" href="#menu-main-navigation" data-target="#menu-main-navigation"></a>
-                    <a class="mm-title" href="#menu-main-navigation">ABOUT PDP</a>
+                    <a class="mm-title" href="#menu-main-navigation">ABOUT PI</a>
                 </div>
                 <ul class="sub-menu mm-listview">
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5314"><a
-                            href="#">About PDP</a></li>
+                            href="#">About PI</a></li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5342"><a
                             href="#">Gallery</a></li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5268"><a
@@ -61,7 +61,7 @@
                 <div class="logo  item-pdlr">
                     <div class="logo-inner">
                         <a class="" href="{{ route('home') }}">
-                            <img src="#" alt="PDP Logo"></a>
+                            <img src="{{ asset('assets/img/logo.jpg') }}" alt="PI LOGO" class="max-w-[80px]"></a>
                     </div>
                 </div>
                 <div class="mobile-menu-right">

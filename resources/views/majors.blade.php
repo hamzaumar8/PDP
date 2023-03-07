@@ -5,7 +5,7 @@
         <div class="page-title-container container">
             <div class="page-title-content item-px">
                 <div class="page-caption">Majors</div>
-                <h1 class="page-title">Pregrammes & Colleges</h1>
+                <h1 class="page-title">Pregrammes & Institutes</h1>
             </div>
         </div>
     </div>
@@ -31,7 +31,7 @@
                                         <div class="course-item-list bg-[#ff6c00] pt-2 px-2">
                                             <a class="course-item-link" href="#">
                                                 <span class="course-item-id skin-caption">Programmes</span>
-                                                <span class="course-item-title skin-title !text-white">Colleges</span>
+                                                <span class="course-item-title skin-title !text-white">Institutes</span>
                                             </a>
                                         </div>
                                     </div>

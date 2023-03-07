@@ -46,7 +46,7 @@
                                             <div class="title-item-title-wrap clearfix">
                                                 <h3 class="title-item-title skin-title "
                                                     style="font-size: 29px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;">
-                                                    PDP’s History</h3>
+                                                    PI’s History</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -67,7 +67,7 @@
                                     <div class="pbf-element">
                                         <div class="text-box-item item-px item-pb left-align">
                                             <div class="text-box-item-content" style="text-transform: none ;">
-                                                <p>If you would like to study in the college in the heart of the city
+                                                <p>If you would like to study in the Institute in the heart of the city
                                                     that focus on chaning the world for better to morrow, you’re choosin
                                                     the right place. We do not use special formulas to select students.
                                                     We look at every single applicant’s application, academic and
@@ -85,7 +85,7 @@
                                     <div class="pbf-element">
                                         <div class="text-box-item item-px item-pb left-align">
                                             <div class="text-box-item-content" style="text-transform: none ;">
-                                                <p>If you would like to study in the college in the heart of the city
+                                                <p>If you would like to study in the Institute in the heart of the city
                                                     that focus on chaning the world for better to morrow, you’re choosin
                                                     the right place. We do not use special formulas to select students.
                                                     We look at every single applicantt’s application, academic and
@@ -161,7 +161,7 @@
                                             <div class="title-item-title-wrap clearfix">
                                                 <h3 class="title-item-title skin-title "
                                                     style="font-size: 18px ;font-weight: 600 ;letter-spacing: 0px ;text-transform: none ;color: #ff6c00 ;">
-                                                    PDP's Principle </h3>
+                                                    PI's Principle </h3>
                                             </div>
                                         </div>
                                     </div>
@@ -250,8 +250,8 @@
                                             <div class="text-box-item-content"
                                                 style="font-size: 17px ;text-transform: none ;">
                                                 <p>Campus on a tour designed for prospective graduate and professional
-                                                    students. You will see how our college like, facilities, studenst
-                                                    and life in this college. Meet our graduate admissions
+                                                    students. You will see how our Institute like, facilities, studenst
+                                                    and life in this Institute. Meet our graduate admissions
                                                     representative to learn more about our graduate programs and decide
                                                     what it the best for you.</p>
                                             </div>
@@ -321,8 +321,8 @@
                                             <div class="text-box-item-content"
                                                 style="font-size: 17px ;text-transform: none ;">
                                                 <p>Campus on a tour designed for prospective graduate and professional
-                                                    students. You will see how our college like, facilities, studenst
-                                                    and life in this college. Meet our graduate admissions
+                                                    students. You will see how our Institute like, facilities, studenst
+                                                    and life in this Institute. Meet our graduate admissions
                                                     representative to learn more about our graduate programs and decide
                                                     what it the best for you.</p>
                                             </div>
@@ -368,8 +368,8 @@
                                             <div class="text-box-item-content"
                                                 style="font-size: 17px ;text-transform: none ;">
                                                 <p>Campus on a tour designed for prospective graduate and professional
-                                                    students. You will see how our college like, facilities, studenst
-                                                    and life in this college. Meet our graduate admissions
+                                                    students. You will see how our Institute like, facilities, studenst
+                                                    and life in this Institute. Meet our graduate admissions
                                                     representative to learn more about our graduate programs and decide
                                                     what it the best for you.</p>
                                             </div>

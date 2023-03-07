@@ -26,7 +26,7 @@
                                     <div class="title-item-title-wrap ">
                                         <h3 class="title-item-title skin-title "
                                             style="font-size: 22px ;font-weight: 700 ;text-transform: none ;color: #314e85 ;">
-                                            Why Choose PDP?<span class="title-item-title-divider skin-divider"></span>
+                                            Why Choose PI?<span class="title-item-title-divider skin-divider"></span>
                                         </h3>
                                     </div>
                                 </div>
