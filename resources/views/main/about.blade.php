@@ -6,13 +6,13 @@
                     <div class="pbf-column column-20 column-first">
                         <div class="pbf-column-content-margin  ">
                             <div class="pbf-column-content clearfix  ">
-                                <div class="pbf-element">
+                                {{-- <div class="pbf-element">
                                     <div class="image-item item-pb  left-align item-px" style="padding-bottom: 20px ;">
                                         <div class="image-item-wrap media-image  image-item-style-rectangle">
                                             <img src="#" alt="PDP logo">
                                         </div>
                                     </div>
-                                </div>
+                                </div> --}}
                                 <div class="pbf-element">
                                     <div class="title-item item-pb clearfix  left-align title-item-caption-bottom item-px"
                                         style="padding-bottom: 20px ;">
