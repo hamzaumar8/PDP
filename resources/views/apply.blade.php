@@ -88,7 +88,7 @@
     <div class="pbf-wrapper " style="padding: 660px 0px 30px 0px;">
         <div class="pbf-background-wrap">
             <div class="pbf-background"
-                style="background-image: url(https://images.pexels.com/photos/2982449/pexels-photo-2982449.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) ;background-size: cover ;background-position: center ;background-attachment: fixed ;">
+                style="background-image: url({{ asset('assets/img/2.jpg') }}) ;background-size: cover ;background-position: center ;background-attachment: fixed ;">
             </div>
         </div>
         <div class="pbf-wrapper-content js ">

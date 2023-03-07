@@ -17,9 +17,8 @@
                         <div class="blog-grid ">
                             <div class="blog-thumbnail media-image  opacity-on-hover zoom-on-hover">
                                 <a href="#">
-                                    <img src="https://images.pexels.com/photos/8617983/pexels-photo-8617983.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-                                        width="900" height="500"
-                                        srcset="https://images.pexels.com/photos/8617983/pexels-photo-8617983.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 600w, https://images.pexels.com/photos/8617983/pexels-photo-8617983.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 900w"
+                                    <img src="{{ asset('assets/img/3.jpg') }}" width="900" height="500"
+                                        srcset="{{ asset('assets/img/3.jpg') }} 600w, {{ asset('assets/img/3.jpg') }} 900w"
                                         sizes="(max-width: 767px) 100vw, (max-width: 1150px) 33vw, 383px"
                                         alt=""></a>
                             </div>
@@ -43,10 +42,9 @@
                     <div class="item-list  item-px column-20">
                         <div class="blog-grid ">
                             <div class="blog-thumbnail media-image  opacity-on-hover zoom-on-hover">
-                                <a href="#"><img
-                                        src="https://images.pexels.com/photos/9159039/pexels-photo-9159039.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-                                        width="900" height="500"
-                                        srcset="https://images.pexels.com/photos/9159039/pexels-photo-9159039.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 400w, https://images.pexels.com/photos/9159039/pexels-photo-9159039.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 600w, https://images.pexels.com/photos/9159039/pexels-photo-9159039.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 900w"
+                                <a href="#"><img src="{{ asset('assets/img/5.jpg') }}" width="900"
+                                        height="500"
+                                        srcset="{{ asset('assets/img/5.jpg') }} 400w, {{ asset('assets/img/5.jpg') }} 600w, {{ asset('assets/img/5.jpg') }} 900w"
                                         sizes="(max-width: 767px) 100vw, (max-width: 1150px) 33vw, 383px"
                                         alt=""></a>
                             </div>
@@ -69,10 +67,9 @@
                     <div class="item-list  item-px column-20">
                         <div class="blog-grid ">
                             <div class="blog-thumbnail media-image  opacity-on-hover zoom-on-hover">
-                                <a href="#"><img
-                                        src="https://images.pexels.com/photos/7092371/pexels-photo-7092371.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-                                        width="900" height="500"
-                                        srcset="https://images.pexels.com/photos/7092371/pexels-photo-7092371.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 400w, https://images.pexels.com/photos/7092371/pexels-photo-7092371.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 600w, https://images.pexels.com/photos/7092371/pexels-photo-7092371.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 900w"
+                                <a href="#"><img src="{{ asset('assets/img/3.jpg') }}" width="900"
+                                        height="500"
+                                        srcset="{{ asset('assets/img/3.jpg') }} 400w, {{ asset('assets/img/3.jpg') }} 600w, {{ asset('assets/img/3.jpg') }} 900w"
                                         sizes="(max-width: 767px) 100vw, (max-width: 1150px) 33vw, 383px"
                                         alt=""></a>
                             </div>

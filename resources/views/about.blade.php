@@ -265,7 +265,7 @@
                                 style="height: 585.641px;">
                                 <div class="pbf-background-wrap">
                                     <div class="pbf-background parallax js"
-                                        style="background-image: url(&quot;https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/nathan-dumlao-572047-unsplash.jpg&quot;); background-size: cover; background-position: center center; height: 660.713px; transform: translate(0px, 116.959px);"
+                                        style="background-image: url({{ asset('assets/img/5.jpg') }}); background-size: cover; background-position: center center; height: 660.713px; transform: translate(0px, 116.959px);"
                                         data-parallax-speed="0.2"></div>
                                 </div>
                                 <div class="pbf-column-content clearfix js  sync-height-content">
@@ -284,7 +284,7 @@
                                 style="height: 578.641px;">
                                 <div class="pbf-background-wrap">
                                     <div class="pbf-background parallax js"
-                                        style="background-image: url(&quot;https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2016/06/shutterstock_400221589.jpg&quot;); background-size: cover; background-position: center center; height: 655.113px; transform: translate(0px, 114.031px);"
+                                        style="background-image: url({{ asset('assets/img/1.jpg') }}); background-size: cover; background-position: center center; height: 655.113px; transform: translate(0px, 114.031px);"
                                         data-parallax-speed="0.2"></div>
                                 </div>
                                 <div class="pbf-column-content clearfix js  sync-height-content">
@@ -383,7 +383,7 @@
                                 style="height: 582.641px;">
                                 <div class="pbf-background-wrap">
                                     <div class="pbf-background parallax js"
-                                        style="background-image: url(&quot;https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/shutterstock_547272460.jpg&quot;); background-size: cover; background-position: center center; height: 658.313px; transform: translate(0px, 73.1031px);"
+                                        style="background-image: url({{ asset('assets/img/2.jpg') }}); background-size: cover; background-position: center center; height: 658.313px; transform: translate(0px, 73.1031px);"
                                         data-parallax-speed="0.2"></div>
                                 </div>
                                 <div class="pbf-column-content clearfix js  sync-height-content">

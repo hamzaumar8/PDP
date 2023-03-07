@@ -15,8 +15,8 @@
                                         <div class="column-service-item item-pb  left-align column-service-icon-left with-caption item-px"
                                             style="padding-bottom: 30px;">
                                             <div class="column-service-media media-image"><img
-                                                    src="https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/icon-1.png"
-                                                    alt="" width="40" height="40" title="icon-1"></div>
+                                                    src="{{ asset('assets/img/icon-1.png') }}" alt=""
+                                                    width="40" height="40" title="icon-1"></div>
                                             <div class="column-service-content-wrapper">
                                                 <div class="column-service-title-wrap">
                                                     <h3 class="column-service-title skin-title"
@@ -41,8 +41,8 @@
                                         <div class="column-service-item item-pb  left-align column-service-icon-left with-caption item-px"
                                             style="padding-bottom: 30px;">
                                             <div class="column-service-media media-image"><img
-                                                    src="https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/icon-2.png"
-                                                    alt="" width="44" height="40" title="icon-2"></div>
+                                                    src="{{ asset('assets/img/icon-2.png') }}" alt=""
+                                                    width="44" height="40" title="icon-2"></div>
                                             <div class="column-service-content-wrapper">
                                                 <div class="column-service-title-wrap">
                                                     <h3 class="column-service-title skin-title"
@@ -66,8 +66,8 @@
                                         <div class="column-service-item item-pb  left-align column-service-icon-left with-caption item-px"
                                             style="padding-bottom: 30px;">
                                             <div class="column-service-media media-image"><img
-                                                    src="https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/icon-3.png"
-                                                    alt="" width="44" height="39" title="icon-3"></div>
+                                                    src="{{ asset('assets/img/icon-3.png') }}" alt=""
+                                                    width="44" height="39" title="icon-3"></div>
                                             <div class="column-service-content-wrapper">
                                                 <div class="column-service-title-wrap">
                                                     <h3 class="column-service-title skin-title"
@@ -91,8 +91,8 @@
                                         <div class="column-service-item item-pb  left-align column-service-icon-left with-caption item-px"
                                             style="padding-bottom: 30px;">
                                             <div class="column-service-media media-image"><img
-                                                    src="https://a6e8z9v6.stackpathcdn.com/kingster/wp-content/uploads/2018/08/icon-4.png"
-                                                    alt="" width="41" height="41" title="icon-4"></div>
+                                                    src="{{ asset('assets/img/icon-4.png') }}" alt=""
+                                                    width="41" height="41" title="icon-4"></div>
                                             <div class="column-service-content-wrapper">
                                                 <div class="column-service-title-wrap">
                                                     <h3 class="column-service-title skin-title"
