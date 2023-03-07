@@ -5,7 +5,7 @@
             <div class="logo">
                 <div class="logo-inner">
                     <a class="" href="{{ route('home') }}">
-                        <img src="#" alt="PDP LOGO">
+                        <img src="{{ asset('assets/img/logo.jpg') }}" alt="PDP LOGO" class="max-w-[80px]">
                     </a>
                 </div>
             </div>

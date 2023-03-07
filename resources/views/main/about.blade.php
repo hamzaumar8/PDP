@@ -34,7 +34,7 @@
                                         style="padding-bottom: 15px ;">
                                         <div class="text-box-item-content"
                                             style="font-size: 23px ;text-transform: none ;color: #d8e3fb ;">
-                                            <p>The Pneuma Desert Place is a Bible Institute of the Desert Pastures,
+                                            <p>The Pneuma Institute is a Bible Institute of the Desert Pastures,
                                                 Fountain Gate Chapel, Eastwood Anaba Ministries and Kingdom Agreement.
                                                 It is an online and physical space where believers gather to know,
                                                 follow, live by and minister by the Spirit.</p>

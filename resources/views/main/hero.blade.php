@@ -25,7 +25,7 @@
                             <p>Be a part of our revival </p>
                             <h1
                                 class="bg-[#ff6c00] text-white text-[32px] leading-[32px] lg:text-[80px] lg:leading-[80px] font-bold inline-block py-3 px-4">
-                                Pneuma Desert Places
+                                Pneuma Institute
                             </h1>
                             <div class="badge">
                                 <a href="{{ route('apply') }}"

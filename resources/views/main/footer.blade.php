@@ -5,7 +5,7 @@
                 <div class="footer-column px-5 ">
                     <div id="text-2" class="widget widget_text widget">
                         <div class="textwidget">
-                            <p>Pneuma Desert Places<br>
+                            <p>Pneuma Institute<br>
                                 <span class="space-shortcode" style="margin-top: 5px ;"></span><br>
                                 Sabon Zongo<br>
                                 Bolgatanga , UE.
