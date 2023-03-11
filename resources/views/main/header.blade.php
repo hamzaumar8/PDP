@@ -37,7 +37,36 @@
                             <a href="#" class="sf-with-ul-pre sf-with-ul">Academics</a>
                             <div x-show="academicsOpen"
                                 x-on:mouseleave="academicsOpen = false"class="sf-mega sf-mega-full">
-                                <div class="sf-mega-section-wrap gap-2 grid grid-cols-3">
+                                <div class="sf-mega-section-wrap gap-2 grid grid-cols-2">
+                                    <div class="sf-mega-section">
+                                        <div
+                                            class="sf-mega-section-inner menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5740">
+                                            <a href="#" class="sf-with-ul-pre">Diploma Program</a>
+                                            <ul class="sub-menu">
+                                                <li
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5954">
+                                                    <a href="{{ route('home') }}hospitality-management/">Hospitality
+                                                        Management</a>
+                                                </li>
+                                                <li
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5953">
+                                                    <a href="{{ route('home') }}physics/">Physics</a>
+                                                </li>
+                                                <li
+                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5909">
+                                                    <a href="#">Chemistry</a>
+                                                </li>
+                                                <li
+                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5910">
+                                                    <a href="#">Music</a>
+                                                </li>
+                                                <li
+                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5920">
+                                                    <a href="#">Computer Science</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
                                     <div class="sf-mega-section">
                                         <div
                                             class="sf-mega-section-inner menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5739">
@@ -70,68 +99,8 @@
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="sf-mega-section">
-                                        <div
-                                            class="sf-mega-section-inner menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5740">
-                                            <a href="#" class="sf-with-ul-pre">Graduate Program</a>
-                                            <ul class="sub-menu">
-                                                <li
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5954">
-                                                    <a href="{{ route('home') }}hospitality-management/">Hospitality
-                                                        Management</a>
-                                                </li>
-                                                <li
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5953">
-                                                    <a href="{{ route('home') }}physics/">Physics</a>
-                                                </li>
-                                                <li
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5909">
-                                                    <a href="#">Chemistry</a>
-                                                </li>
-                                                <li
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5910">
-                                                    <a href="#">Music</a>
-                                                </li>
-                                                <li
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5920">
-                                                    <a href="#">Computer Science</a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="sf-mega-section">
-                                        <div
-                                            class="sf-mega-section-inner menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5741">
-                                            <a href="#" class="sf-with-ul-pre">Research</a>
-                                            <ul class="sub-menu">
-                                                <li
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5911">
-                                                    <a href="{{ route('home') }}">Department
-                                                        Page</a>
-                                                </li>
-                                                <li
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5912">
-                                                    <a href="{{ route('home') }}/">Major
-                                                        Page</a>
-                                                </li>
-                                                <li
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5913">
-                                                    <a href="{{ route('home') }}">Faculty
-                                                        Page</a>
-                                                </li>
-                                                <li
-                                                    class="menu-item menu-item-type-post_type menu-item-object-personnel menu-item-5919">
-                                                    <a href="{{ route('home') }}">Single
-                                                        Instructor</a>
-                                                </li>
-                                                <li
-                                                    class="menu-item menu-item-type-post_type menu-item-object-course menu-item-5955">
-                                                    <a href="{{ route('home') }}">Single
-                                                        Course</a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
+
+
                                 </div>
                             </div>
                         </li>
@@ -159,7 +128,8 @@
                         </li>
                         <li
                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6036 normal-menu">
-                            <a href="{{ route('majors') }}" class="sf-with-ul-pre sf-with-ul">Majors</a>
+                            <a href="{{ route('majors') }}" class="sf-with-ul-pre sf-with-ul">Social Transformation
+                            </a>
                         </li>
                         <li
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5734 normal-menu">
