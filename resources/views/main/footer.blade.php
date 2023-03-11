@@ -13,7 +13,7 @@
                             <p><span style="font-size: 15px; color: #ffffff;">+233 505 401 959</span><br>
                                 <span class="space-shortcode" style="margin-top: -20px ;"></span><br>
                                 <a style="font-size: 15px; color: #ffffff;"
-                                    href="mailto://PI.univars@gmail.com">PI.univars@gmail.com</a>
+                                    href="mailto://pdp.univars@gmail.com">pdp.univars@gmail.com</a>
                             </p>
                             <div class="divider-item divider-item-normal left-align">
                                 <div class="divider-line skin-divider"

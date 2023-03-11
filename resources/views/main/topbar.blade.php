@@ -2,8 +2,8 @@
     <div class="container ">
         <div class="flex items-center justify-between">
             <div class="top-bar-left space-x-5 px-5">
-                <a href="mailto://PI.univars@gmail.com">
-                    <i class="fa fa-envelope-open-o"></i> PI.univars@gmail.com
+                <a href="mailto://pdp.univars@gmail.com">
+                    <i class="fa fa-envelope-open-o"></i> pdp.univars@gmail.com
                 </a>
                 <a href="tel://+233505401959">
                     <i class="fa fa-phone"></i> +233 505 401 959
